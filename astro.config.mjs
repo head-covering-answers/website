@@ -18,7 +18,7 @@ export default defineConfig({
 //						{ label: 'About', slug: 'guides/example' },
 //					],
 //				},
-    { slug: 'about/welcome' },
+    { slug: 'start here/welcome' },
 				{
 					label: 'Start Here',
 					autogenerate: { directory: 'start here' },
