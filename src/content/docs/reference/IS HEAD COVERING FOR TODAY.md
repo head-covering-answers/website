@@ -1,4 +1,4 @@
-## QUESTION: Do Paul's instructions about head covering still apply to Christian women nowadays?
+### QUESTION: Do Paul's instructions about head covering still apply to Christian women nowadays?
 
 ### REASON FOR THIS QUESTION:
 
