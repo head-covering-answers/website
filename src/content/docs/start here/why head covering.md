@@ -13,7 +13,8 @@ description: The reasons that Christians should re-discover the historical and b
 # This description will be picked up by search engines and in social media previews.
 
 
-tableOfContents: false
+# tableOfContents: false
+# the above line removes the right-hand sidebar contents menu
 
 
 
