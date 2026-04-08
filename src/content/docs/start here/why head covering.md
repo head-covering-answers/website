@@ -3,14 +3,14 @@
 # https://starlight.astro.build/reference/frontmatter/
 
 
-title: Why Head Covering?
+title: Ummm... Why Head Covering?
 
-# This will be displayed at the top of the page, in browser tabs, and in page metadata.
+# The title above will be displayed at the top of the page, in browser tabs, and in page metadata.
 
 
 description: The reasons that Christians should re-discover the historical and biblical practice of head covering for women.
 
-# This will be picked up by search engines and in social media previews.
+# This description will be picked up by search engines and in social media previews.
 
 
 
@@ -21,6 +21,8 @@ sidebar:
 
   # Set a custom label for the link
   # label: Custom sidebar label
+
+  tableOfContents: false
 
 
 ---
@@ -45,4 +47,8 @@ Welcome to **Head Covering Answers**!  Are you...
 
 5. A piece of cloth isn't really that important, per se.  **True.  But, biblically, it's not about the piece of cloth.  Any symbol (like a wedding ring) is a physical thing that points to spiritual truths.  Most Christians are used to other symbolic practices like baptism and the Lord's Supper.**
 
+## So what next?...
 
+- Read the passage (click the "next" arrow below)
+- Understand the passage better (keep clicking "next" or jump to the menu on the left)
+- Apply what the passage says (God's Word has good direction, because it's from God!)
