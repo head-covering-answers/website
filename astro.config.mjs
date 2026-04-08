@@ -11,12 +11,16 @@ export default defineConfig({
 			title: 'Head Covering Answers',
 //			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
+//				{
+//					label: 'About',
+//					items: [
+//						// Each item here is one entry in the navigation menu.
+//						{ label: 'About', slug: 'guides/example' },
+//					],
+//				},
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'About',
+					autogenerate: { directory: 'about' },
 				},
 				{
 					label: 'Reference',
