@@ -1,32 +1,6 @@
 ---
-# learn more about this section here:
-# https://starlight.astro.build/reference/frontmatter/
-
-
 title: Ummm... Why Head Covering?
-
-# The title above will be displayed at the top of the page, in browser tabs, and in page metadata.
-
-
 description: The reasons that Christians should re-discover the historical and biblical practice of head covering for women.
-
-# This description will be picked up by search engines and in social media previews.
-
-
-# tableOfContents: false
-# the above line removes the right-hand sidebar contents menu
-
-
-
-sidebar:
-
-  # Set a custom order for the link (lower numbers are displayed higher up)
-  order: 1
-
-  # Set a custom label for the link
-  # label: Custom sidebar label
-
-
 ---
 
 Welcome to **Head Covering Answers**!  Are you...
