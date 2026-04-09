@@ -1,8 +1,8 @@
 ---
-title: Do Paul's instructions about head covering still apply to Christian women nowadays?
+title: Is Head Covering For Today?
 description: Do Paul's instructions about head covering still apply to Christian women nowadays?
 sidebar:
-  label: Apply today?
+  label: Head Covering For Today?
 ---
 - Why aren't all Christian women wearing head coverings, if Paul's instructions about it still applied today?
 - Does the passage indicate whether the practice was meant for the Corinthian culture only, or whether it was meant for Christianity as a whole?
@@ -10,9 +10,10 @@ sidebar:
 
 ### ANSWER: The passage demonstrates that the instructions are meant for all Christians.
 
-### SCRIPTURE REASONS
+### SCRIPTURE'S REASONS
 
-- Paul gave 5 reasons for the practice, and they are universal reasons.  They aren't applicable only to the Corinthian believers:  (list and link them)
+- Paul gave 5 reasons for the practice, and they are universal reasons.
+- These reasons aren't related to only the Corinthian believers:  (list and link them)
 
 ### HISTORY
 - This was the primary practice throughout Christian history.  (link)
