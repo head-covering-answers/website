@@ -1,7 +1,7 @@
 ---
-title: Reason for Head Covering: Creation
+title: Reason for Head Covering Creation
 description: Reason for Head Covering - Creation
 sidebar:
   label: Creation
 ---
-Does this need content to work?
+ Does this need content to work?
