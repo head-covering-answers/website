@@ -19,12 +19,12 @@ export default defineConfig({
 //					],
 //				},
 				{
-					label: 'Start Here',
+					label: 'START HERE',
 					autogenerate: { directory: 'start here' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'BIBLICAL BASIS',
+					autogenerate: { directory: 'biblical basis' },
 				},
 			],
 		}),
