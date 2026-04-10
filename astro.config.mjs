@@ -26,6 +26,10 @@ export default defineConfig({
 					label: 'BIBLICAL BASIS',
 					autogenerate: { directory: 'biblical basis' },
 				},
+				{
+					label: 'MISCONCEPTIONS',
+					autogenerate: { directory: 'misconceptions' },
+				},
 			],
 		}),
 	],
