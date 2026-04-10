@@ -10,7 +10,7 @@ Some women who practice head covering believe they are not permitted to have the
 
 Where does this perspective come from? Since wearing long hair is a glory (1 Corinthians 11:15), they believe that Paul's instructions are to keep it hidden in order to avoid it being a physical/visual distraction from the glory of God.
 
-This is something associated with the mistaken that idea that visible hair is sensual and that a head covering is [intended for modesty.]
+This is something associated with the mistaken that idea that visible hair is sensual and that a head covering is [intended for modesty](/modesty/).
 :::
 
 ## Answer
