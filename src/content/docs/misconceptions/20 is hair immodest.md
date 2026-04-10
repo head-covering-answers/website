@@ -5,6 +5,7 @@ sidebar:
   label: Is this an issue of modesty?
 ---
 
+:::tip{icon="sun"}[]
 Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote modesty.
 
 
