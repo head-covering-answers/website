@@ -1,8 +1,10 @@
 ---
 title: Is it immodest for a woman to show her long hair publicly?
-description: Why 1 Corinthians 11 isn't about modesty?
+description: Why 1 Corinthians 11 is not about modesty.
+sidebar:
   label: Is this an issue of modesty?
 ---
+
 Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote modesty.
 
 
