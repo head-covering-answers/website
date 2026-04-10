@@ -5,12 +5,12 @@ sidebar:
   label: Is this an issue of modesty?
 ---
 
-:::tip[]{icon="sun"}
+:::tip[ ]{icon="sun"}
 Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote modesty.
 :::
 
 
-:::tip[]{icon="sun"}
+:::tip[ ]{icon="sun"}
 ## Answer
 **No modesty is not included in this chapter.**
 :::
@@ -19,6 +19,12 @@ Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote 
 :::tip[Answer]{icon="sun"}
 :::
 **No modesty is not included in this chapter.**
+
+
+## :::tip[Answer]{icon="sun"}
+:::
+**No modesty is not included in this chapter.**
+
 
 
 ## Reasons
