@@ -10,8 +10,8 @@ Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote 
 :::
 
 
-:::tip[ ]{icon="sun"}
 ## Answer
+:::tip[]{icon="sun"}
 **No modesty is not included in this chapter.**
 :::
 
@@ -20,10 +20,6 @@ Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote 
 :::
 **No modesty is not included in this chapter.**
 
-
-## :::tip[Answer]{icon="sun"}
-:::
-**No modesty is not included in this chapter.**
 
 
 
