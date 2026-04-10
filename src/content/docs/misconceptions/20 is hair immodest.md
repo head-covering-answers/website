@@ -12,9 +12,8 @@ Some men and women believe that Paul wrote 1 Corinthians 11 in order to promote 
 
 ## Answer
 **No modesty is not included in this chapter.**
-:::
 
 
 
-## Reasons
+## Explanation
 - The closest thing is the original definition of humility.
