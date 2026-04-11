@@ -21,6 +21,7 @@
 
 /* Reveal the hidden "Footnotes" heading */
 h2#footnote-label {
+  display: block; 
   width: auto;
   height: 1.5rem;
   position: static;
