@@ -1,0 +1,11 @@
+/* Change the footnote return icon */
+.footnote-backref {
+  font-size: 0; /* Hides the default ↩ icon */
+  text-decoration: none;
+}
+
+.footnote-backref::after {
+  content: "↑"; /* Put your desired character or emoji here */
+  font-size: 1rem; /* Adjust size as needed */
+  vertical-align: middle;
+}
