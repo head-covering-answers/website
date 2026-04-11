@@ -23,9 +23,9 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 
 - In 1 Corinthians 11, **Paul never specifies any need** to cover the hair. Further, he does not actually express any concern that hair will be a distraction from God's glory.[^1]
 
-- Sure, covering the head has the side-effect of covering _some_ hair. But a woman's hair could easily flow down below the shoulders, **well below the covered head.**
+- Sure, covering the head has the side effect of covering _some_ hair. But a woman's hair could easily flow down below her shoulders, **well below her covered head.** This shows that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
 
-- In fact, Paul **does expect that a Christian woman's hair is visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).[^2] 
+- In fact, Paul **does expect that a Christian woman's hair to be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).[^2] 
 
 ***
 [^1]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [(1 Corinthians 15:41)](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
