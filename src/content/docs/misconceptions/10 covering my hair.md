@@ -20,11 +20,11 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 
 
 ## Explanation
-- The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul speaks only of head coverings, not hair-coverings.
-- Note that Paul never actually indicates any need to cover the hair. Further, he does not express any concern that hair will be a distraction from God's glory.[^1]
-- Sure, covering the head has the side-effect of covering _some_ hair. After all, a woman's hair could easily flow down below the shoulders, well below the covered head.
-- - In fact, Paul does expect that a Christian woman's hair is visible externally, not internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).[^2] 
+- The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul **speaks only of head coverings** and not hair-coverings.
+- Note that **Paul never specifies any need** to cover the hair. Further, he does not actually express any concern that hair will be a distraction from God's glory.[^1]
+- Sure, covering the head has the side-effect of covering _some_ hair. But a woman's hair could easily flow down below the shoulders, **well below the covered head.**
+- In fact, Paul **does expect that a Christian woman's hair is visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).[^2] 
 
-[^1]: If we were to continue extending head covering to also include the covering of all other glories (to prevent them from becoming a distraction from God's glory), then we'd also need to shield our eyes from the "glory" of the sun, moon, and stars [1 Corinthians 15:41](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
+[^1]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [1 Corinthians 15:41](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
 
-[^2]:  Technical side-note: In 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (the Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
+[^2]:  Technical side-note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
