@@ -6,6 +6,7 @@
   text-decoration: none !important;
 }
 
+
 /* 
 .data-footnote-backref::after {
   content: "↑" !important;
@@ -13,3 +14,13 @@
   margin-left: 0.25rem;
 }
 */
+
+
+/* Reveal the hidden "Footnotes" heading */
+h2#footnote-label {
+  width: auto;
+  height: auto;
+  position: static;
+  clip: auto;
+  margin-top: 0rem; /* Adjust this to control the gap above the line */
+}
