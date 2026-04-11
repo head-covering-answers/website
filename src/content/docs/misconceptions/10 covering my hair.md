@@ -6,9 +6,9 @@ sidebar:
 ---
 
 :::tip[Overview]{icon="sun"}
-Some believe that women should not have their hair showing whenever they wear a head covering. 
+Having long hair is a glory (1 Corinthians 11:15).
 
-Having long hair is a glory (1 Corinthians 11:15), so their perspective is that the long hair becomes a physical/visual distraction from the glory of God during worship. They would say that this "competing glory" must be covered.
+But some  believe that the long hair becomes a physical/visual distraction from the glory of God during worship. They would say that this "competing glory" must be covered.
 
 This is similar to the belief that a woman's long hair is sensual and that a head covering is [intended for modesty](/modesty/).
 
@@ -16,7 +16,8 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 :::
 
 ## Answer
-#### **» No, God does not instruct women to conceal their hair.**
+#### » No, God does not instruct women to conceal their hair.
+
 
 ## Explanation
 - The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul **speaks only of head coverings** and not hair-coverings.
