@@ -22,7 +22,6 @@
 /* Reveal the hidden "Footnotes" heading */
 h2#footnote-label {
   width: auto;
-  height: 1.5rem;
   position: static;
   clip: auto;
   font-size: 1.5rem;
@@ -32,5 +31,5 @@ h2#footnote-label {
 
 /* hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes */
 h2#footnote-label > a {
-  display: none;
+  font-size: 0rem;
 }
