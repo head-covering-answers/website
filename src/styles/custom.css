@@ -20,16 +20,17 @@
 
 
 /* Reveal the hidden "Footnotes" heading */
-h2#footnote-label.sr-only {
+h2#footnote-label {
   width: auto;
   height: 1.5rem;
   position: static;
   clip: auto;
+  font:-size: 1.5rem;
   margin-top: 0rem; /* Adjust this to control the gap above the line */
 }
 
 
 /* hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes */
-h2#footnote-label.sr-only > a {
+h2#footnote-label > a {
   display: none;
 }
