@@ -16,13 +16,11 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 :::
 
 ## Answer
-  \
   
 #### » No, God does not instruct women to conceal their hair.  
   
   \
-  \
-  \
+  
 ***
 
 ## Explanation
