@@ -25,9 +25,9 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 ## Explanation
 - The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul **speaks only of head coverings** and not hair-coverings.
 
-- In 1 Corinthians 11, **Paul never specifies any need** to cover the hair. Further, he does not actually express any concern that hair will be a distraction from God's glory.[^1]
+- In 1 Corinthians 11, **Paul never specifies a need** to cover the hair. Further, he does not actually express any concern that hair will be a distraction from God's glory.[^1]
 
-- Sure, covering the head has the side effect of covering _some_ hair. But a woman's hair could easily flow down below her shoulders, **well below her covered head.** This shows that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
+- Of course, covering the head has the side effect of covering _some_ hair. But a woman's hair could easily flow down lower than her shoulders, which is **well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
 
 - In fact, Paul **does expect that a Christian woman's hair to be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).[^2] 
 
