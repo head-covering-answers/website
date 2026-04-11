@@ -7,6 +7,8 @@
 }
 
 
+
+/* Change the default icon */
 /* 
 .data-footnote-backref::after {
   content: "↑" !important;
@@ -19,7 +21,7 @@
 /* Reveal the hidden "Footnotes" heading */
 h2#footnote-label {
   width: auto;
-  height: auto;
+  height: 1.5rem;
   position: static;
   clip: auto;
   margin-top: 0rem; /* Adjust this to control the gap above the line */
