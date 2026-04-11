@@ -6,8 +6,10 @@
   text-decoration: none !important;
 }
 
+/* 
 .data-footnote-backref::after {
   content: "↑" !important; /* Change this to your preferred icon */
   font-size: 1rem !important;
   margin-left: 0.25rem;
 }
+*/
