@@ -27,7 +27,7 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 
 - In fact, Paul **does expect that a Christian woman's hair is visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).[^2] 
 
-#### Footnotes
+**Footnotes**
 [^1]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [(1 Corinthians 15:41)](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
 
 [^2]:  Technical side-note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
