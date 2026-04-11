@@ -18,6 +18,7 @@ These beliefs become especially unhealthy when women feel ashamed any time their
 ## Answer
 #### » No, God does not instruct women to conceal their hair.
 
+***
 
 ## Explanation
 - The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul **speaks only of head coverings** and not hair-coverings.
