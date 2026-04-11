@@ -1,11 +1,13 @@
 /* Change the footnote return icon */
+
 .footnote-backref {
-  font-size: 0; /* Hides the default ↩ icon */
-  text-decoration: none;
+  display: inline-block !important;
+  font-size: 0 !important; /* Hides the default ↩ icon */
+  text-decoration: none !important;
 }
 
 .footnote-backref::after {
-  content: "↑"; /* Put your desired character or emoji here */
-  font-size: 1rem; /* Adjust size as needed */
-  vertical-align: middle;
+  content: "↑" !important; /* Change this to your preferred icon */
+  font-size: 1rem !important;
+  margin-left: 0.25rem;
 }
