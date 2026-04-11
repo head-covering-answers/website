@@ -8,7 +8,7 @@
 
 /* 
 .data-footnote-backref::after {
-  content: "↑" !important; /* Change this to your preferred icon */
+  content: "↑" !important;
   font-size: 1rem !important;
   margin-left: 0.25rem;
 }
