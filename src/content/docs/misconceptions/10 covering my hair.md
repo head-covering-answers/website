@@ -12,7 +12,7 @@ sidebar:
 
 - This creates a moral obligation to place a covering over that "competing glory."
 
-- However, if this belief is not true, then women do not need to feel guilty any time their long hair is visible.[^2]
+- If this belief is true, then women may feel guilty any time their long hair is visible during worship.[^2]
 :::
 
 ## Answer
@@ -30,7 +30,7 @@ sidebar:
 
 - Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^4] In context, the "glory" of long hair is instead expressed with a _positive_ tone.
 
-- Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, **which is well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
+- Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, **which is well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ will be covered as well.
 
 - In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering ([1 Timothy 2:9-10](https://www.biblegateway.com/passage/?search=1%20Timothy%202%3A9-10&version=NASB), [1 Peter 3:3-4](https://www.biblegateway.com/passage/?search=1%20Peter%203%3A3-4&version=NASB)).
 
