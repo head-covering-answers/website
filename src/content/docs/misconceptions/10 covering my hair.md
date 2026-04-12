@@ -8,7 +8,7 @@ sidebar:
 :::tip[Overview]{icon="sun"}
 - The Apostle Paul states that having long hair is a glory (1 Corinthians 11:15).[^1]
 
-- Some Christians conclude that the "glorious" long hair thus comes a physical/visual distraction from the glory of God during worship.
+- Some Christians conclude that the "glorious" long hair thus comes a physical (visual) distraction from the glory of God during worship.
 
 - This creates a moral obligation to place a covering over that "competing glory."
 
@@ -17,7 +17,7 @@ sidebar:
 
 ## Answer
   
-##### » God does not instruct women to cover all their hair.
+##### » God does not instruct women to conceal all their hair.
 ##### » Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
  
 ⠀
