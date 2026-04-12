@@ -12,12 +12,12 @@ sidebar:
 
 - This creates a moral obligation to place a covering over that "competing glory."
 
-- If this belief is not true, then women do not need to feel ashamed any time their long hair is visible.[^1]
+- However, if this belief is not true, then women do not need to feel ashamed any time their long hair is visible.[^1]
 :::
 
 ## Answer
   
-##### » No, God does not instruct women to conceal their hair.
+##### » No. God does not instruct women to conceal their hair. Instead, we have indication that Paul expected Christian women to have visible hair in public and in worship.
  
 ⠀
 ⠀
@@ -28,7 +28,7 @@ sidebar:
 
 - Specifically, Paul **never actually gives any instruction** for a woman to cover all her hair.[^2]
 
-- Further, he **does not express any concern** that long hair will be a distraction from God's glory.[^3]
+- Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^3] In context, te "glory" of long hair is instead expressed with a _positive_ tone.
 
 - Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, which is **well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
 
