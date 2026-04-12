@@ -17,7 +17,7 @@ sidebar:
 
 ## Answer
   
-##### » No. God does not instruct women to conceal their hair. Instead, we have indication that Paul expected Christian women to have visible hair in public and in worship.
+##### » No. God does not instruct women to conceal their hair. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
  
 ⠀
 ⠀
@@ -28,11 +28,11 @@ sidebar:
 
 - Specifically, Paul **never actually gives any instruction** for a woman to cover all her hair.[^2]
 
-- Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^3] In context, te "glory" of long hair is instead expressed with a _positive_ tone.
+- Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^3] In context, the "glory" of long hair is instead expressed with a _positive_ tone.[^4] 
 
-- Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, which is **well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
+- Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, **which is well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
 
-- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering ([1 Timothy 2:9-10](https://www.biblegateway.com/passage/?search=1%20Timothy%202%3A9-10&version=NASB), [1 Peter 3:3-4](https://www.biblegateway.com/passage/?search=1%20Peter%203%3A3-4&version=NASB)).[^4] 
+- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering ([1 Timothy 2:9-10](https://www.biblegateway.com/passage/?search=1%20Timothy%202%3A9-10&version=NASB), [1 Peter 3:3-4](https://www.biblegateway.com/passage/?search=1%20Peter%203%3A3-4&version=NASB)).
 
 ***
 
