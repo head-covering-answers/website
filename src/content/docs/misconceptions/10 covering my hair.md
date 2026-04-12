@@ -17,7 +17,7 @@ sidebar:
 
 ## Answer
   
-##### » No. God does not instruct women to conceal their hair. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
+##### » God does not instruct women to cover all their hair. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
  
 ⠀
 ***
