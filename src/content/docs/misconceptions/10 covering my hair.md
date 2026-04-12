@@ -1,6 +1,6 @@
 ---
 title: Does the head covering need to cover all of my hair?
-description: Explaining the relationship between head covering and hair
+description: Explaining the relationship between head covering and hair covering.
 sidebar:
   label: Must all my hair be covered?
 ---
@@ -26,7 +26,7 @@ sidebar:
 ## Explanation
 - The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul speaks **only of head coverings** rather than hair-coverings.
 
-- Specifically, Paul **never actually gives any instruction** for a woman to cover all her hair.[^3]
+- Specifically, Paul **never actually gives any instruction** for a woman to cover her hair.[^3]
 
 - Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^4] In context, the "glory" of long hair is instead expressed with a _positive_ tone.
 
