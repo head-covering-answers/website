@@ -10,9 +10,9 @@ sidebar:
 
 - Some Christians conclude that the "glorious" long hair thus comes a physical (visual) distraction from the glory of God during worship.
 
-- This creates a moral obligation to place a covering over that "competing glory."
-
-- If this belief is true, then women may feel guilty any time their long hair is visible during worship.[^2]
+- This creates a sense of obligation to place a covering over that "competing glory."
+  
+- When holding this belief, women may feel guilty if their long hair is visible during worship.[^2]
 :::
 
 ## Answer
