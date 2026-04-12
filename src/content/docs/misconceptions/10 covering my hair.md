@@ -6,13 +6,13 @@ sidebar:
 ---
 
 :::tip[Overview]{icon="sun"}
-- The Apostle Paul states that having long hair is a glory (1 Corinthians 11:15).
+- The Apostle Paul states that having long hair is a glory (1 Corinthians 11:15).[^1]
 
 - Some Christians conclude that the "glorious" long hair thus comes a physical/visual distraction from the glory of God during worship.
 
 - This creates a moral obligation to place a covering over that "competing glory."
 
-- However, if this belief is not true, then women do not need to feel ashamed any time their long hair is visible.[^1]
+- However, if this belief is not true, then women do not need to feel guilty any time their long hair is visible.[^2]
 :::
 
 ## Answer
@@ -20,15 +20,14 @@ sidebar:
 ##### » No. God does not instruct women to conceal their hair. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
  
 ⠀
-⠀
 ***
 
 ## Explanation
 - The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul speaks **only of head coverings** rather than hair-coverings.
 
-- Specifically, Paul **never actually gives any instruction** for a woman to cover all her hair.[^2]
+- Specifically, Paul **never actually gives any instruction** for a woman to cover all her hair.[^3]
 
-- Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^3] In context, the "glory" of long hair is instead expressed with a _positive_ tone.[^4] 
+- Further, 1 Corinthians 11 simply **does not express any concern** that long hair will be a distraction from God's glory.[^4] In context, the "glory" of long hair is instead expressed with a _positive_ tone.
 
 - Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, **which is well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
 
@@ -36,10 +35,10 @@ sidebar:
 
 ***
 
-[^1]: The opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](/modesty). And so this opposite belief actually has the same result: a sense of guilt if long hair is exposed.
+[^1]:  A technical side note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
 
-[^2]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [(1 Corinthians 15:41)](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
+[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](/modesty). And so this opposite belief actually has the same result: a sense of guilt if long hair is exposed.
 
-[^3]: After all, the comparison between the glory of long hair and the glory of the Lord is similar to the difference between the brightness of a candle and the brightness of the sun.
+[^3]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [(1 Corinthians 15:41)](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
 
-[^4]:  A technical side note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
+[^4]: After all, the comparison between the glory of long hair and the glory of the Lord is similar to the difference between the brightness of a candle and the brightness of the sun.
