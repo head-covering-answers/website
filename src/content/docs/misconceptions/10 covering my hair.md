@@ -22,9 +22,11 @@ If this belief is not true, then women do not need to feel ashamed any time thei
 ***
 
 ## Explanation
-- The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul speaks **only of head coverings** and never speaks of hair-coverings.
+- The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul speaks **only of head coverings** rather than hair-coverings.
 
-- In 1 Corinthians 11, Paul **never actually specifies a need** to cover the hair.[^2] Further, he does not express any concern that log hair will be a distraction from God's glory.[^3]
+- Specifically, Paul **never actually gives any instruction** for a woman to cover all her hair.[^2]
+
+- Further, he **does not express any concern** that long hair will be a distraction from God's glory.[^3]
 
 - Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, which is **well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ is covered as well.
 
