@@ -29,7 +29,7 @@ h2#footnote-label {
 }
 
 
-/* hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes */
+/* try to hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes */
 h2#footnote-label > a {
   font-size: 0rem;
 }
