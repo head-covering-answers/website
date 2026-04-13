@@ -15,7 +15,7 @@ Welcome to **Head Covering Answers**!  Are you...
 
 ## Perhaps You've Thought...
 
-1. Why would Christian women wear head coverings?  **Main reason: it's taught in the New Testament.  Sure, the topic probably hasn't come up lately in your pastor's sermon. But it's still worth a read (see [1 Corinthians 11](./20 - 1 Corinthians 11 in the Bible)).**
+1. Why would Christian women wear head coverings?  **Main reason: it's taught in the New Testament.  Sure, the topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [still worth a read](./20---1-corinthians-11-in-the-bible/).**
 
 2. Still seems like a random topic? **The Apostle Paul actually spends half of a decent-length chapter explaining the practice of head covering, including 5 specific reasons for the practice.**
 
