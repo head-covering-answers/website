@@ -33,7 +33,7 @@ sidebar:
 
 - Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, **which is well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ will be covered as well.
 
-- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10;<span></span> 1 Peter 3:3-4).
+- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10;  1 Peter 3:3-4).
 
 ***
 
