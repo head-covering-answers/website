@@ -7,10 +7,19 @@ import Default from '@astrojs/starlight/components/Footer.astro';
 {/* Render the actual Starlight footer so your site still looks normal */}
 <Default {...Astro.props} />
 
-
-<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" defer></script>
-
+<script is:inline src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js"></script>
 <script is:inline>
-	BGLinks.version = "NASB1995";
-	BGLinks.linkVerses();
+  function applyBibleLinks() {
+    // Check if the library has loaded yet
+    if (window.BGLinks) {
+      BGLinks.version = "NASB1995";
+      BGLinks.linkVerses();
+    }
+  }
+
+  // Run immediately on the first page load
+  applyBibleLinks();
+
+  // Run every time Starlight navigates to a new page
+  document.addEventListener('astro:page-load', applyBibleLinks);
 </script>
