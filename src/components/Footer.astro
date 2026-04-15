@@ -7,7 +7,9 @@ import Default from '@astrojs/starlight/components/Footer.astro';
 {/* Render the actual Starlight footer so your site still looks normal */}
 <Default {...Astro.props} />
 
-{/* Paste your specific script here */}
+
+<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" defer></script>
+
 <script is:inline>
 	BGLinks.version = "NASB1995";
 	BGLinks.linkVerses();

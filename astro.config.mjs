@@ -10,10 +10,10 @@ export default defineConfig({
 		starlight({
 			title: 'Head Covering Answers',
 			head: [
-        			{
-          				tag: 'script',
-          				attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
-        			},
+        			//{
+          			//	tag: 'script',
+          			//	attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
+        			//},
 			      ],
 			components: {
         			// Custom footer = regular footer + BibleGateway reference tagger, which uses the script listed a few lines above this line, but which need to be called near the bottom of the page (footer) in order to work
