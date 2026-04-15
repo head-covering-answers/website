@@ -10,25 +10,15 @@ export default defineConfig({
 		starlight({
 			title: 'Head Covering Answers',
 			head: [
-        			//{
-          			//	tag: 'script',
-          			//	attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
-        			//},
+        			
 			      ],
 			components: {
-        			// Custom footer = regular footer + BibleGateway reference tagger, which uses the script listed a few lines above this line, but which need to be called near the bottom of the page (footer) in order to work
+        			// Adding footer code which includes Bible reference tagger.
         			Footer: './src/components/Footer.astro',
       				},
 			customCss: ['./src/styles/custom.css'],
-//			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'star', label: 'home', href: '/' }],
 			sidebar: [
-//				{
-//					label: 'About',
-//					items: [
-//						// Each item here is one entry in the navigation menu.
-//						{ label: 'About', slug: 'guides/example' },
-//					],
-//				},
 				{
 					label: 'START HERE',
 					autogenerate: { directory: 'start here' },
