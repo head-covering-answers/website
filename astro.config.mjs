@@ -9,6 +9,12 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Head Covering Answers',
+			head: [
+        			{
+          				tag: 'script',
+          				attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
+        			},
+			      ],
 			customCss: ['./src/styles/custom.css'],
 //			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
