@@ -4,15 +4,6 @@ description: Explaining the relationship between head covering and hair covering
 sidebar:
   label: Must all my hair be covered?
 ---
-<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-  document.addEventListener('astro:page-load', () => {
-	BGLinks.version = "NASB1995";
-	BGLinks.linkVerses();
-  }, ); 
-  /script>
-
 
 :::tip[Overview]{icon="sun"}
 - The Apostle Paul states that having long hair is a glory (1 Corinthians 11:15).[^1]

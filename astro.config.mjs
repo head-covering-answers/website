@@ -14,6 +14,20 @@ export default defineConfig({
           				tag: 'script',
           				attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
         			},
+{
+          				tag: 'script',
+					content: `
+       					     document.addEventListener('astro:page-load', () => {
+              
+              				// Define and call your function here
+              				myAutoRunFunction();
+            				});
+
+			            function myAutoRunFunction() {
+			              alert('This ran automatically on load!');
+            				}
+          			   `,
+        			},
 			      ],
 			customCss: ['./src/styles/custom.css'],
 //			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
