@@ -14,17 +14,12 @@ export default defineConfig({
           				tag: 'script',
           				attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
         			},
-{
+				{
           				tag: 'script',
 					content: `
-       					     document.addEventListener('astro:page-load', () => {
-              
 						BGLinks.version = "NASB1995";
 						BGLinks.linkVerses();
-
-            				});
-
-          			   `,
+          			   		`,
         			},
 			      ],
 			customCss: ['./src/styles/custom.css'],
