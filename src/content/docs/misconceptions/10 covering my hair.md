@@ -5,10 +5,15 @@ sidebar:
   label: Must all my hair be covered?
 ---
 <script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-BGLinks.version = "NASB1995";
-BGLinks.linkVerses();
+  document.addEventListener('astro:page-load', () => {
+	BGLinks.version = "NASB1995";
+	BGLinks.linkVerses();
+  }, { once: true }); 
+  // Use { once: true } if you only want it to fire the very first time
 </script>
+
 
 :::tip[Overview]{icon="sun"}
 - The Apostle Paul states that having long hair is a glory (1 Corinthians 11:15).[^1]
