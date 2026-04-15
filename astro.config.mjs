@@ -19,13 +19,11 @@ export default defineConfig({
 					content: `
        					     document.addEventListener('astro:page-load', () => {
               
-              				// Define and call your function here
-              				myAutoRunFunction();
+						BGLinks.version = "NASB1995";
+						BGLinks.linkVerses();
+
             				});
 
-			            function myAutoRunFunction() {
-			              alert('This ran automatically on load!');
-            				}
           			   `,
         			},
 			      ],
