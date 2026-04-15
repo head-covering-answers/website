@@ -18,9 +18,10 @@ sidebar:
 ## Answer
   
 ##### » God does not instruct women to conceal all their hair.[^3]
+##### » Therefore, it is legalism to require women to conceal their hair.
 ##### » Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
 
-<br><br>
+<br>
 ***
 
 ## Explanation
@@ -38,7 +39,7 @@ sidebar:
 
 [^1]:  A technical side note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
 
-[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](./modesty). And so this opposite belief actually has the same result: a sense of guilt if long hair is exposed.
+[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](./modesty). And so this opposite belief can actually have the same result: a woman feeling unnecessarily guilty if her hair is visible.
 
 [^3]: At the same time, God does not prohibit women from covering all their hair. And so a personal decision to cover all hair would fall under a "[Christian liberty](./christian-liberty])" issue.
 
