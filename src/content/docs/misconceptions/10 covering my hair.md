@@ -10,7 +10,7 @@ sidebar:
   document.addEventListener('astro:page-load', () => {
 	BGLinks.version = "NASB1995";
 	BGLinks.linkVerses();
-  }, { once: true }); 
+  }, ); 
   // Use { once: true } if you only want it to fire the very first time
 </script>
 
