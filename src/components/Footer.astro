@@ -9,17 +9,6 @@ import Default from '@astrojs/starlight/components/Footer.astro';
 
 {/* Paste your specific script here */}
 <script is:inline>
-  function initializeReferenceTagging() {
-    console.log("Initializing tagging...");
-
 	BGLinks.version = "NASB1995";
 	BGLinks.linkVerses();
-
-  }
-
-  // This ensures it runs on the very first visit
-  initializeReferenceTagging();
-
-  // This ensures it runs every time you click a link in the sidebar
-  document.addEventListener('astro:page-load', initializeReferenceTagging);
 </script>
