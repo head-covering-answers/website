@@ -11,8 +11,7 @@ sidebar:
 	BGLinks.version = "NASB1995";
 	BGLinks.linkVerses();
   }, ); 
-  // Use { once: true } if you only want it to fire the very first time
-</script>
+  /script>
 
 
 :::tip[Overview]{icon="sun"}
