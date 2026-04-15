@@ -32,16 +32,7 @@ sidebar:
 
 - Of course, covering the head has the side effect of covering _some_ hair. But a woman's long hair could easily flow down lower than her shoulders, **which is well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ will be covered as well.
 
-- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering ([1 Timothy 2:9-10](https://www.biblegateway.com/passage/?search=1%20Timothy%202%3A9-10&version=NASB), [1 Peter 3:3-4](https://www.biblegateway.com/passage/?search=1%20Peter%203%3A3-4&version=NASB)).
-
-1 Corinthians 15:41
-
-
-<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" type="text/javascript"></script>
-<script type="text/javascript">
-BGLinks.version = "NASB";
-BGLinks.linkVerses();
-</script>
+- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10, 1 Peter 3:3-4).
 
 ***
 
@@ -51,6 +42,6 @@ BGLinks.linkVerses();
 
 [^3]: At the same time, God does not prohibit women from covering all their hair. And so a personal decision to cover all hair would fall under a "[Christian liberty](./christian-liberty])" issue.
 
-[^4]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [(1 Corinthians 15:41)](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
+[^4]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun (1 Corinthians 15:41).
 
 [^5]: After all, the comparison between the glory of long hair and the glory of the Lord is similar to the difference between the brightness of a candle and the brightness of the sun.

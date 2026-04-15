@@ -14,14 +14,11 @@ export default defineConfig({
           				tag: 'script',
           				attrs: { src: 'https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js', defer: true },
         			},
-				{
-          				tag: 'script',
-					content: `
-						BGLinks.version = "NASB1995";
-						BGLinks.linkVerses();
-          			   		`,
-        			},
 			      ],
+			components: {
+        			// Custom footer = regular footer + BibleGateway reference tagger, which uses the script listed a few lines above this line, but which need to be called near the bottom of the page (footer) in order to work
+        			Footer: './src/components/Footer.astro',
+      				},
 			customCss: ['./src/styles/custom.css'],
 //			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
