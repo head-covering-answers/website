@@ -5,6 +5,7 @@ sidebar:
   label: Where in the Bible?
 ---
 
+
 2 Now I praise you because you remember me in everything and hold firmly to the traditions, just as I delivered them to you.
 
 3 But I want you to understand that Christ is the head of every man, and the man is the head of a woman, and God is the head of Christ.
