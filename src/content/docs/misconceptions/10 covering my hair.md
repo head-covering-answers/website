@@ -50,3 +50,6 @@ BGLinks.linkVerses();
 [^4]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun [(1 Corinthians 15:41)](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A41&version=NASB).
 
 [^5]: After all, the comparison between the glory of long hair and the glory of the Lord is similar to the difference between the brightness of a candle and the brightness of the sun.
+
+
+1 Corinthians 15:41
