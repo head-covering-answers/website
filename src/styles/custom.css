@@ -8,7 +8,8 @@
 
 
 
-/* Change the default icon */
+/* Below is code for changing the icon, but it's commented-out because all I want to do is hide it using the code above */
+
 /* 
 .data-footnote-backref::after {
   content: "↑" !important;
@@ -19,7 +20,7 @@
 
 
 
-/* Reveal the hidden "Footnotes" heading */
+/* Reveal the hidden "Footnotes" heading, and shrink the font size */
 h2#footnote-label {
   width: auto;
   position: static;
@@ -29,7 +30,7 @@ h2#footnote-label {
 }
 
 
-/* try to hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes */
+/* try to hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes... unfortunately, this doesn't seem to work */
 h2#footnote-label > a {
   font-size: 0rem;
 }
