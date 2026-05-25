@@ -2,7 +2,7 @@
 title: Where is head covering taught in the Bible?
 description: The biblical passage that teaches about Christian head covering
 sidebar:
-  label: Head covering in the New Testament
+  label: Head covering in Scripture
 ---
 
 ###  Where in the Bible?

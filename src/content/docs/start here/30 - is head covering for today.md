@@ -2,7 +2,7 @@
 title: Is the biblical practice of head covering applicable for today?
 description: Do Paul's instructions about head covering still apply to Christian women nowadays?
 #sidebar:
-#  label: Christian Head Covering For Today
+  label: Christian Head Covering For Today
 ---
 - Why aren't all Christian women wearing head coverings, if Paul's instructions about it still applied today?
 - Does the passage indicate whether the practice was meant for the Corinthian culture only, or whether it was meant for Christianity as a whole?
