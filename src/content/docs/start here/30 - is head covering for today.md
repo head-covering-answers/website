@@ -6,9 +6,9 @@ sidebar:
 ---
 
 :::tip[Overview]{icon="sun"}
-Why aren't all Christian women wearing head coverings, if Paul's instructions about it still applied today?
+It's important to know Paul's instructions about head covering were applicable to the Corinthian culture only, or whether they were meant for Christianity as a whole?
 
-Does the passage indicate whether the practice was meant for the Corinthian culture only, or whether it was meant for Christianity as a whole?
+And if Paul's instructions about it still apply today, why aren't all Christian women wearing head coverings?
 :::
 
 
