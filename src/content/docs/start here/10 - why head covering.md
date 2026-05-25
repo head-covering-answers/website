@@ -9,7 +9,7 @@ Welcome to **Head Covering Answers**!
 
 - Are you surprised to find a website about *Christian* head covering?
 
-- Or maybe you've been curious about the Mennonites, pictures from Christian history, or your reading of 1 Corinthians?
+- Or maybe you've been curious about the Mennonites, or pictures from Christian history, or your own reading of 1 Corinthians?
 
 **Either way, you've come to the right place.**
 
