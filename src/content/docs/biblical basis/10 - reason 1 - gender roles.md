@@ -1,7 +1,7 @@
 ---
-title: Why do men and women have different head covering instructions?
+title: How does head covering relate to gender?
 description: Paul explains head covering based on biblical gender roles
 sidebar:
-  label: Why just for women?
+  label: Reason 1 - Gender Identity
 ---
 Gender roles

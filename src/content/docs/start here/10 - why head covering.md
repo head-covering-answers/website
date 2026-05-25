@@ -1,8 +1,8 @@
 ---
-title: Why Are We Talking About Head Covering?
+title: Why Should Christians Consider Head Covering?
 description: The reasons that Christians should re-discover the historical and biblical practice of head covering for women.
 sidebar:
-  label: Why Head Covering?
+  label: Why Discuss Head Covering?
 ---
 
 Welcome to **Head Covering Answers**!  
