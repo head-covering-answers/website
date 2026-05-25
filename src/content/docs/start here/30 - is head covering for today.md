@@ -6,9 +6,9 @@ sidebar:
 ---
 
 :::tip[Overview]{icon="sun"}
-It's important to know Paul's instructions about head covering were applicable to the Corinthian culture only, or whether they were meant for Christianity as a whole?
+It's important to know Paul's instructions about head covering were applicable to the Corinthian culture only, or whether they were meant for Christianity as a whole.
 
-And if Paul's instructions about it still apply today, why aren't all Christian women wearing head coverings?
+It would seem that if Paul's instructions still apply today, then it would be normal for all Christian women to wear head coverings nowadays.
 :::
 
 
@@ -26,3 +26,8 @@ And if Paul's instructions about it still apply today, why aren't all Christian 
 - People's behavior may change over time, but the Bible hasn't changed.
 - So what changed with people?  Pastors stopped preaching about it.  Gender roles received pushback.  Sometimes people don't read & study their Bibles as much, so they never run into the passage.
 
+
+### Application
+- Don't be fooled by the lack of modern application.
+- It was applied throughout most of history.
+- And many churches have left behind other practices as well, often related to gender roles (female pastors, gay marriage, male leadership in marriage, etc).

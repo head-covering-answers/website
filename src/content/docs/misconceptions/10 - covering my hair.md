@@ -8,11 +8,11 @@ sidebar:
 :::tip[Overview]{icon="sun"}
 - The Apostle Paul states that having long hair is a glory (1 Corinthians 11:15).[^1]
 
-- Some Christians conclude that the "glorious" long hair thus comes a physical (visual) distraction from the glory of God during worship.
+- Does this mean that the "glorious" long hair becomes a physical (visual) distraction from the glory of God during worship?
 
-- This creates a sense of obligation to place a covering over that "competing glory."
+- If so, are ladies obligated to place a covering over that "competing glory."
   
-- When holding this belief, women may feel guilty if their long hair is visible during worship.[^2]
+- When holding this belief, women may even feel guilty if their long hair is visible during worship.[^2]
 :::
 
 ## Answer
@@ -40,7 +40,7 @@ sidebar:
 
 [^1]:  A technical side note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
 
-[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](./modesty). And so this opposite belief can actually have the same result: a woman feeling unnecessarily guilty if her hair is visible.
+[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](./20 - is hair immodest). And so this opposite belief can actually have the same result: a woman feeling unnecessarily guilty if her hair is visible.
 
 [^3]: At the same time, God does not prohibit women from covering all their hair. And so a personal decision to cover all hair would fall under a "[Christian liberty](./christian-liberty])" issue.
 
