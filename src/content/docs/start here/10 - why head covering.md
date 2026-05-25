@@ -10,21 +10,21 @@ Are you surprised to find a website about *Christian* head covering?
 
 Or maybe you've been curious about the Mennonites, or pictures from Christian history, or your own reading of 1 Corinthians?
 
-**Either way, you've come to the right place.**
+**Either way, you've come to the right place...**
 :::
 
 
-## Perhaps You've Thought...
+## First Things First...
 
-1. <mark>Why would Christian women wear head coverings?</mark>  **Main reason: it's taught in the New Testament.  Sure, the topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
+1. <mark>Why would Christian women wear head coverings?</mark>  **It's taught in the New Testament.  Sure, this topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
 
 2. <mark>This seems like a random topic.</mark> **The Apostle Paul actually spends half of a decent-length chapter explaining the practice of head covering, including 5 specific reasons for the practice.**
 
-3. <mark>It must be just a local custom for a unique situation in the Bible, right?</mark>  **Scripture explains the universal reasons for head covering, as well as the universal practice (at least, among the earliest churches)**
+3. <mark>It must be just a local custom for a unique situation in the Bible, right?</mark>  **Scripture explains the universal reasons for head covering, as well as the universal practice (before some churches stopped practicing it.)**
 
 4. <mark>So it's an ancient practice that died out with ancient culture?</mark>  **Actually, it's well-documented that Christianity has  been practicing head covering for 2000 years, and that it generally went out-of-favor only within the last 150 years.**
 
-5. <mark>A piece of cloth isn't really that important.</mark>  **True! But, biblically, it's not about the piece of cloth anyway.  A _symbol_ (like a wedding ring) is something physical that points to spiritual truths. Most Christians are used to other symbolic practices like baptism and the Lord's Supper.**
+5. <mark>A piece of cloth isn't really that important.</mark>  **True, compared to many other truths in Scripture. But, biblically, it's not about the piece of cloth anyway.  A _symbol_ (like a wedding ring) is something physical that points to spiritual truths. Most Christians are used to other symbolic practices like baptism and the Lord's Supper.**
 
 ## So what next?...
 
