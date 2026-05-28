@@ -5,7 +5,7 @@ template: splash # Remove or comment out this line to display the site sidebar o
 banner:
   content: This site is currently being built. The roadmap is available <a href="https://docs.google.com/document/d/1ih-8JOwKBEbRS_tlSPym09oyekSsQRoJEQMjFWmLE2w/edit?usp=drivesdk">here.</a>
 hero:
-  tagline: Get clear, biblical answers that are easy to understand. Just tap "Search" at the top or choose a topic to get started...
+  tagline: Get clear, biblical answers. Tap "Search" at the top or choose a topic to get started...
   image:
     file: ../../assets/Mascot-transparent.webp
   actions:
@@ -20,6 +20,10 @@ hero:
     - text: Top 5 Questions
       link: /start-here/30---top-questions/
       icon: list-format
+      variant: secondary
+    - text: Is It For Today?
+      link: /practical-topics/10---is-head-covering-for-today/
+      icon: sun
       variant: secondary
 ---
 import { Card, CardGrid } from '@astrojs/starlight/components';
@@ -39,3 +43,11 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 	</Card>
 </CardGrid>
 
+<div style="text-align: center; margin-top: 5rem; padding-top: 2rem; border-top: 1px solid var(--sl-color-hairline); color: var(--sl-color-gray-4); font-size: var(--sl-text-sm);">
+  <p>&copy; <span id="copyright-year"></span> headcovering.org. All rights reserved.</p>
+</div>
+
+<script is:inline>
+  // Dynamically calculate and inject the current calendar year on page load
+  document.getElementById('copyright-year').textContent = new Date().getFullYear();
+</script>
