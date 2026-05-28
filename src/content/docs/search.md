@@ -12,8 +12,7 @@ lastUpdated: false
 </div>
 
 <script is:inline>
-  // Wait for the page DOM to fully load in the browser
-  document.addEventListener('DOMContentLoaded', () => {
+  function triggerSearch() {
     // 1. Locate Starlight's native search button component
     const nativeSearchButton = document.querySelector('button[data-open-modal="search"]');
     
@@ -36,7 +35,15 @@ lastUpdated: false
         }, 150);
       }
     }
-  });
+  }
+
+  // Safety Gate: If the browser is already finished or interactive, run it immediately
+  if (document.readyState === 'interactive' || document.readyState === 'complete') {
+    triggerSearch();
+  } else {
+    // Otherwise, wait for the DOM layout to finish mounting
+    document.addEventListener('DOMContentLoaded', triggerSearch);
+  }
 </script>
 
 <style>
