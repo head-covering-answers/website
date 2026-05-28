@@ -42,12 +42,3 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 		Send in your questions, find inspirating styles, or join our Facebook Group for more discussion. <a href="/start-here/40---more-resources/">Get connected.</a>
 	</Card>
 </CardGrid>
-
-<div style="text-align: center; margin-top: 5rem; padding-top: 2rem; border-top: 1px solid var(--sl-color-hairline); color: var(--sl-color-gray-4); font-size: var(--sl-text-sm);">
-  <p>&copy; <span id="copyright-year"></span> headcovering.org. All rights reserved.</p>
-</div>
-
-<script is:inline>
-  // Dynamically calculate and inject the current calendar year on page load
-  document.getElementById('copyright-year').textContent = new Date().getFullYear();
-</script>
