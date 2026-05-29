@@ -18,19 +18,21 @@ Or perhaps you've seen pictures from Christian history where the women had some 
 
 ## Beginning Questions
 
-### Why would any woman decide to wear a head covering?
-**This practice is taught in the New Testament.  Sure, that topic probably hasn't come up lately in your pastor's sermons. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
+### A. Why would a Christian woman decide to wear a head covering?
+- **True, this topic probably hasn't come up lately in your pastor's sermons (at least in most modern churches).**
+- **However, the practice of Christian head covering is taught in the New Testament, and has been followed for most of Christian history.**
+- -**God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
 
+### B. But isn't this a pretty low-priority topic?
+- **Yes, compared to many other doctrines & practices in Scripture.**
+- **However, the Apostle Paul did spend half of a chapter explaining head covering. He gave 5 specific reasons for the practice. And its principles relate to several hot-button topics nowadays.**
+- -**Besides, head covering is not about a piece of cloth anyway.  A _symbol_ (like a wedding ring) is something physical that points to spiritual truths. Most Christians are used to other symbolic practices like baptism and the Lord's Supper. Similarly, the value of head covering is in the spiritual truths that it symbolizes.**
 
-1. <mark>Why would any woman decide to wear a head covering?</mark>  **This practice is taught in the New Testament.  Sure, that topic probably hasn't come up lately in your pastor's sermons. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
+### C. Wasn't head covering just a local custom for ancient Corinthian culture?
+- **Time to check the history books! Paul's instructions about Christian head covering were actually counter-cultural for his day.**
+- **Further, it's well-documented that Christianity has been practicing head covering for 2000 years, and that it generally went out-of-favor only within the last 150 years.**
+- **The Bible actually provides *universal reasons* for head covering, as well as referencing its *universal practice* (before some churches stopped practicing it.)**
 
-2. <mark>Nowadays, head covering seems like a random topic.</mark> **The Apostle Paul actually spends half of a chapter explaining head covering, including 5 specific reasons for the practice.**
-
-3. <mark>It must be just a local custom for a unique situation in the Bible, right?</mark>  **The Bible actually provides *universal reasons* for head covering, as well as describing the *universal practice* of head covering (before some churches stopped practicing it.)**
-
-4. <mark>But it was just an ancient practice that died out with ancient culture, right?</mark>  **Time to check the history books! It's well-documented that Christianity has been practicing head covering for 2000 years, and that it generally went out-of-favor only within the last 150 years.**
-
-5. <mark> I can't see how a piece of cloth isn't really that important.</mark>  **It's not, compared to many other truths in Scripture. But... biblically, head covering is not about the piece of cloth anyway.  A _symbol_ (like a wedding ring) is something physical that points to spiritual truths. Most Christians are used to other symbolic practices like baptism and the Lord's Supper. The value of head covering is in the spiritual truths that it symbolizes.**
 
 ## Let Scripture Speak
 
