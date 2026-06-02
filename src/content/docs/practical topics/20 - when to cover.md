@@ -7,4 +7,20 @@ sidebar:
   label: When To Wear A Covering
 ---
 
-needing to distinguish "absolute sense" (in bed? in shower?) vs "in public" vs "during worship" vs "prayer & prophesy."
+
+:::tip[Overview]{icon="sun"}
+- needing to distinguish "absolute sense" (in bed? in shower?) vs "in public" vs "during worship" vs "prayer & prophesy."
+:::
+
+## Answer
+  
+1.  Text goes here
+
+<br>
+
+***
+
+## Explanation
+- Text goes here.
+
+***

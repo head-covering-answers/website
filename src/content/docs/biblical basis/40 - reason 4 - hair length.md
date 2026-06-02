@@ -5,4 +5,19 @@ sidebar:
   label: Reason 4 - Hair Lengths
 ---
 
-Hair lengths
+:::tip[Overview]{icon="sun"}
+- Text goes here
+:::
+
+## Answer
+  
+1.  Text goes here
+
+<br>
+
+***
+
+## Explanation
+- Text goes here.
+
+***
