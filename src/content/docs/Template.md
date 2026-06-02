@@ -1,10 +1,11 @@
 ---
-title: How does head covering relate to gender?
-description: Paul explains head covering based on biblical gender roles
+title: Title
+description: Description
 sidebar:
-  label: Reason 1 - Gender Identity
+  label: Sidebar label
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.
+draft: true
 ---
 
 :::tip[Overview]{icon="sun"}
@@ -14,7 +15,6 @@ banner:
 ## Answer
   
 1. Text goes here
-2. Link to question about whether Eve wore a head covering.
 
 <br>
 
