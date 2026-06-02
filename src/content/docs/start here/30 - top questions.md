@@ -9,7 +9,9 @@ banner:
 
 :::tip[Overview]{icon="sun"}
 Not very familiar with 1 Corinthians 11?
+
 Not sure where to start with Christian head covering? 
+
 Check out these five super-common questions...
 :::
 
