@@ -27,13 +27,7 @@
 }
 
 
-mark {
-  /* Change the background to a softer, theme-friendly color */
-  background-color: var(--sl-color-text-accent); 
-  
-  /* Make sure the text color stays readable */
-  color: var(--sl-color-bg); 
-  
+mark { 
   /* Optional: Add a little padding and rounded corners for a cleaner look */
   padding: 0.1em 0.3em;
   border-radius: 0.25rem;
