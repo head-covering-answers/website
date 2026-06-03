@@ -2,14 +2,14 @@
 title: Did Eve wear a covering in the Garden of Eden?
 description: If head covering is based on gender roles established at Creation, then did Eve wear a head covering?
 sidebar:
-  label: Did Eve wear a covering?
+  label: Did Eve Wear A Covering?
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
 
 :::tip[Overview]{icon="sun"}
 - In 1 Corinthians 11, the Apostle Paul grounds the practice of head covering in the Creation Order, specifically citing that man was created first and that woman was created for the man’s sake.
-- This appeal to the pre-fall state of humanity is used to argue that head covering is a transcultural, timeless symbol rather than a temporary cultural custom.
+- Appealing to the original state of humanity means that head covering points to transcultural and timeless truths rather than just being a temporary cultural custom.
 - So, does this mean that Eve wore a head covering?
 :::
 

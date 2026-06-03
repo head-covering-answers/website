@@ -2,7 +2,7 @@
 title: Should churches require head covering?
 description: Deciding whether to require covering
 sidebar:
-  label: Should churches require covering?
+  label: Should Churches Require Covering?
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
@@ -13,7 +13,11 @@ banner:
 
 ## Answer
   
-1. Text goes here
+1. First, need to define what does "Require" means practically
+2. Offer
+3. Teach
+4. Urge
+5. Discipline if rebellion
 
 <br>
 
