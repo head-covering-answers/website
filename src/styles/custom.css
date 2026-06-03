@@ -10,8 +10,8 @@
 
 
 
+/* The next uncommented line of code has replaced the next commented line of code, in order to allow the gradient to show on non-hero, non-front pages { */
 /* [data-has-hero] .page { */
-
 
 .page {
 	background:
@@ -23,6 +23,7 @@
 
 
 
+/* The next uncommented line of code has replaced the next commented line of code, in order to allow the gradient to show on non-hero, non-front pages { */
 /* [data-has-hero] header { */
 header {
 	border-bottom: 1px solid transparent;
