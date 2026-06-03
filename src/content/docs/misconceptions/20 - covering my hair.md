@@ -20,6 +20,8 @@ sidebar:
 1. God does not instruct women to conceal all their hair.[^3]
 2. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
 
+According to this view, [modesty is the purpose of head covering](/40 - is hair immodest). 
+
 <br>
 
 ***
