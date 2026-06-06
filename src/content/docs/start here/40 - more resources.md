@@ -11,13 +11,14 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-For a practice that's been in the Bible for 2000 years, and practiced all over the world, there are a wide variety of other resources available.
+- Christian head covering has been in the Bible for 2000 years, and practiced all over the world.
+- So it makes sense that there's other resources available beyond this site. 
 :::
 
 
 
 ## Statement of Faith
-- More important than head covering are the foundation theological truths of Scripture, some of which form the foundation for Paul's teaching on head covering.
+- More important than head covering are the **core theological truths of Scripture**, some of which form the foundation for Paul's teaching on head covering.
 - We endorse the **Statement of Faith** from [Answers in Genesis](https://answersingenesis.org/about/faith/).
 - We endorse the **The Danvers Statement** from the [Council on Biblical Manhood and Womanhood](https://cbmw.org/about/the-danvers-statement/).
 
@@ -25,9 +26,9 @@ For a practice that's been in the Bible for 2000 years, and practiced all over t
 
 ## Social Media
 
-- Want further discussion from an evangelical perspective? **Jump into [our Facebook Group](https://www.facebook.com/groups/headcoveringforevangelicals) to fellowship with some good people.**
+- Want further discussion from an evangelical perspective? **Jump into [our Facebook Group](https://www.facebook.com/groups/headcoveringforevangelicals) to fellowship with like-minded people who support head covering.**
 
-- **Didn't find your answer on this site? Want to provide assistance?** Send a message via [Facebook](https://www.facebook.com/HeadcoveringForEvangelicals) or [Instagram](https://www.instagram.com/headcovering_for_evangelicals/).
+- **Didn't find your answer on this site? Or want to help with the site?** Send a message via [Facebook](https://www.facebook.com/HeadcoveringForEvangelicals) or [Instagram](https://www.instagram.com/headcovering_for_evangelicals/).
 
 - Trying to picture what Christian head covering looks like? **You'll find inspiring styles & people on [our Instagram page](https://www.instagram.com/headcovering_for_evangelicals/).**
 

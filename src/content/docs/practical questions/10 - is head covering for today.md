@@ -8,8 +8,8 @@ slug: today
 ---
 
 :::tip[Overview]{icon="sun"}
-- This question often arises because the practice has largely disappeared in modern Western Christianity, making the instructions in 1 Corinthians 11 seem unusual.
-- Many people assume the practice was a temporary cultural accommodation addressed to specific first-century issues in Corinth, such as distinguishing Christian women from local prostitutes or pagan worshipers.
+- The practice of head covering has largely disappeared in modern Western Christianity, making the instructions in 1 Corinthians 11 seem unusual to many modern Christians. 
+-  Some assume the practice was a cultural accommodation addressed to specific first-century issues in Corinth, such as distinguishing Christian women from local prostitutes or pagan worshipers.
 - Confusion also stems from alternative interpretations, such as the view that a woman’s long hair is her only required covering or that the command was tied to "sign gifts" like prophecy that some believe have ceased.
 :::
 
