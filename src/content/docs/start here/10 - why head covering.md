@@ -40,8 +40,6 @@ Perhaps you've seen pictures from Christian history that featured women wearing 
 ## Let Scripture Speak
 
 - People often have strong opinions about topics like head covering. However, it's important to let God's Word speak louder than individual opinions.
-  
-- Click the "Next" arrow (below) to read what the Bible says about head covering. After all, Scripture has taught about head covering for the last 2000 years.
 
 - If you haven't pondered this passage of Scripture before, you'll probably have several questions. To learn more, you can continue clicking "Next" at the bottom of the page.
   

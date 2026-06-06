@@ -10,7 +10,7 @@ slug: scripture
 :::tip[Overview]{icon="sun"}
 Some people assume that the practice of head covering was only in the Old Testament.
 
-However, the Old Testament doesn't **prescribe** (command) head covering as much as it **describes** head covering (partly for cultural reasons).
+However, the Old Testament doesn't **prescribe** (command) head covering as much as it **describes** head covering.
 
 Instead, the Christian practice of head covering is documented (and **prescribed**) by the Apostle Paul in the New Testament.
 
