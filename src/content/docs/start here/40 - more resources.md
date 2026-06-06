@@ -10,12 +10,18 @@ banner:
 ---
 
 
-# Statement of Faith
-- We support the **Statement of Faith** from [Answers in Genesis](https://answersingenesis.org/about/faith/) and the **The Danvers Statement** from the [Council on Biblical Manhood and Womanhood](https://cbmw.org/about/the-danvers-statement/).
+:::tip[Overview]{icon="sun"}
+Christian head covering 
+:::
+
+
+## Statement of Faith
+- We endorse the **Statement of Faith** from [Answers in Genesis](https://answersingenesis.org/about/faith/).
+- We endorse the **The Danvers Statement** from the [Council on Biblical Manhood and Womanhood](https://cbmw.org/about/the-danvers-statement/).
 
 
 
-# Social Media
+## Social Media
 
 - Want further discussion from an evangelical perspective? **Jump into [our Facebook Group](https://www.facebook.com/groups/headcoveringforevangelicals) to fellowship with some good people.**
 
