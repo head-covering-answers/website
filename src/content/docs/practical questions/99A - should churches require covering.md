@@ -3,6 +3,8 @@ title: Should churches require head covering?
 description: Deciding whether to require covering
 sidebar:
   label: Should Churches Require Covering?
+slug: require
+draft: true
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---

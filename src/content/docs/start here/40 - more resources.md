@@ -3,6 +3,7 @@ title: Where can I learn more?
 description: Social media and statement of faith.
 sidebar:
   label: More Resources
+slug: more
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---

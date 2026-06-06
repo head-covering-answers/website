@@ -1,8 +1,10 @@
 ---
-title: Is head covering a form of legalism?
-description: Explaining legalism and its relationship to head covering.
+title: What does hair length have to do with head covering?
+description: Nature's teaching about hair length is used by Paul to support the woman's use of a headcovering. 
 sidebar:
-  label: Is Head Covering Legalism?
+  label: Reason 4 - Hair Lengths
+slug: hair-lengths
+draft: true
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
@@ -13,7 +15,7 @@ banner:
 
 ## Answer
   
-1. Text goes here
+1.  Text goes here
 
 <br>
 

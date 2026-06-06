@@ -3,6 +3,7 @@ title: Does the head covering need to cover all of my hair?
 description: Explaining the relationship between head covering and hair covering.
 sidebar:
   label: Must All My Hair Be Covered?
+slug: covered-hair
 ---
 
 :::tip[Overview]{icon="sun"}

@@ -3,6 +3,7 @@ title: Top Questions About Head Covering
 description: Top Questions About Head Covering
 sidebar:
   label: Top Questions About Covering
+slug: questions
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
