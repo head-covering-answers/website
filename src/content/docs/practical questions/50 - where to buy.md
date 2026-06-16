@@ -12,7 +12,9 @@ banner:
 
 :::tip[Overview]{icon="sun"}
 - Some stores release newly-made batches of their products only periodically.
-- The stores that primarily offer only "traditional" designs (Amish, Catholic, Orthodox, Jewish, Islamic) or "subculture" designs (hippie, vintage, bohemian) are not included in the lists below.
+- Not included in the lists below: 
+ - The stores that primarily offer only "traditional" designs (like Amish, Catholic, Orthodox, Jewish, or Islamic). 
+ - Stores that cater to "subculture" designs (like hippie, vintage, or bohemian).
 :::
 
 ## Specialty Companies
