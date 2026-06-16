@@ -11,7 +11,7 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-- Text goes here
+- "Traditional" = specific style associated with Mennonite, Catholic, Orthodox, or Islam (after all, the hijab-style garment was [worn by some Christians before Islam existed](https://chatgpt.com/share/6a30cdcd-1390-83ea-90ed-707d6adc90ae)).
 :::
 
 ## Specialty Companies
@@ -55,13 +55,9 @@ banner:
 - [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
 ## Other Options
--   Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
+- Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
 - Many ladies make their own head coverings. Here is some guidance: _______
 
-## Answer
-  
-
-1. 
 
 <br>
 
