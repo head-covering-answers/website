@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.headcovering.org', // Your URL
-  base: '/website',               // Your Repo Name
+  base: '/',               // Your Repo Name
 
 	integrations: [
 		starlight({
