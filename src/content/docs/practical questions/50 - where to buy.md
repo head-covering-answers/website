@@ -12,9 +12,9 @@ banner:
 
 :::tip[Overview]{icon="sun"}
 - Some stores release newly-made batches of their products only periodically.
-- Not included in the lists below: 
- - The stores that primarily offer only "traditional" designs (like Amish, Catholic, Orthodox, Jewish, or Islamic). 
- - Stores that cater to "subculture" designs (like hippie, vintage, or bohemian).
+  - Not included in the lists below:
+I'm- The stores that primarily offer only "traditional" designs (like Amish, Catholic, Orthodox, Jewish, or Islamic).
+  - Stores that cater to "subculture" designs (like hippie, vintage, or bohemian).
 :::
 
 ## Specialty Companies
@@ -40,12 +40,3 @@ banner:
 ## Other Options
 - Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
 - Many ladies make their own head coverings. Here is some guidance: _______
-
-
-<br>
-
-***
-
-## Explanation
-- Text goes here.
-
