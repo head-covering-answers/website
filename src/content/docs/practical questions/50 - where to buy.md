@@ -17,7 +17,7 @@ banner:
 :::
 
 ## Specialty Companies
-- **[Garlands of Grace](https://www.garlandsofgrace.com/):** [![Instagram](@assets/Instagram-Button.svg)](http://instagram.com/garlandsofgrace)
+- **[Garlands of Grace](https://www.garlandsofgrace.com/):** <img src="@assets/Mascot-transparent.png" style="height:1lh;vertical-align:middle;">
 
 - [Joyce’s Coverings](http://www.joycelongcoverings.com/)
 - [Headcovers Unlimited](http://www.headcovers.com/)
