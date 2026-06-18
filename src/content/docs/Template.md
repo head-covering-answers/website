@@ -18,6 +18,14 @@ draft: true
   
 1. Text goes here
 
+
+Example image in src/assets (I used tsconfig to create an alias to this folder), which is auto optimized (note: only markdown code can render images in this folder):
+
+-![My Image](@assets/Mascot-transparent.webp)
+
+Example image in the public folder (non-optimized and simply dumped into production site, though Cloudflare may optimize it), whose path gets auto-rewritten to the base directory:
+- <img src="/Mascot-transparent.webp"  style="height:1lh;vertical-align:middle;">
+
 <br>
 
 ***
