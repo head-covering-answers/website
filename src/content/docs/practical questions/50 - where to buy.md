@@ -9,6 +9,8 @@ banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
 
+<style> .lh-icon { height: 1lh; width: auto; vertical-align: middle; } </style>
+
 
 :::tip[Overview]{icon="sun"}
 - **Not included:** stores that primarily offer "traditional" designs (like Amish, Catholic, Orthodox, Jewish, or Islamic).
@@ -18,7 +20,7 @@ banner:
 
 ## Specialty Companies
 
-<b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b>
+<b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b> <img class="lh-icon" src="/Facebook-Icon.svg" />
 
 
 - **[Garlands of Grace](https://www.garlandsofgrace.com/):**
