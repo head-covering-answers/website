@@ -20,7 +20,7 @@ banner:
 
 ## Specialty Companies
 
-<b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b> <img class="lh-icon" src="/Facebook-Icon.svg" />
+<b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b> <img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" />
 
 
 - **[Garlands of Grace](https://www.garlandsofgrace.com/):**
