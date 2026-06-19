@@ -17,6 +17,10 @@ banner:
 :::
 
 ## Specialty Companies
+
+<b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b>
+
+
 - **[Garlands of Grace](https://www.garlandsofgrace.com/):**
 - [Joyce’s Coverings](http://www.joycelongcoverings.com/)
 - [Headcovers Unlimited](http://www.headcovers.com/)
