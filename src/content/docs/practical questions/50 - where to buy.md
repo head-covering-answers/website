@@ -46,5 +46,6 @@ banner:
 - Many ladies make their own head coverings. Here is some guidance: _______
 
 
+***
 
 ####### <a target="_blank" href="https://icons8.com/icon/44112/youtube">Icons provided by <a target="_blank" href="https://icons8.com">Icons8</a>
