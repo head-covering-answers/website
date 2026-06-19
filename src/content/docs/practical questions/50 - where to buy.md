@@ -9,7 +9,7 @@ banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
 
-<style> .lh-icon { height: 1lh; width: auto; vertical-align: middle; display: inline-block;} </style>
+<style> .lh-icon { height: 1lh; width: auto; vertical-align: text-top; display: inline-block;} </style>
 
 
 :::tip[Overview]{icon="sun"}
