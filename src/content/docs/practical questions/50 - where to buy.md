@@ -9,7 +9,7 @@ banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
 
-<style> .lh-icon { height: 1lh; width: auto; vertical-align: text-bottom; display: inline-block;} </style>
+<style> .lh-icon { height: 0.8lh; width: auto; vertical-align: text-bottom; display: inline-block;} </style>
 
 
 :::tip[Overview]{icon="sun"}
@@ -20,7 +20,7 @@ banner:
 
 ## Specialty Companies
 
-<b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b> <a href="[https://www.facebook.com/GarlandsOfGraceHeadwraps](https://www.garlandsofgrace.com/)"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a><a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a> <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
+### <b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a><a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a> <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
 
 
 - **[Garlands of Grace](https://www.garlandsofgrace.com/):**
