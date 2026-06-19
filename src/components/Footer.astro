@@ -8,6 +8,9 @@ import Default from '@astrojs/starlight/components/Footer.astro';
 <Default {...Astro.props} />
 
 <script is:inline src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js"></script>
+
+
+/*
 <script is:inline>
   function applyBibleLinks() {
     // Check if the library has loaded yet
@@ -24,6 +27,10 @@ import Default from '@astrojs/starlight/components/Footer.astro';
   document.addEventListener('astro:page-load', applyBibleLinks);
 </script>
 
+*/
+
+
+<script src="https://literalword.com/bible-tagger.js" data-version="NASB" data-theme="system"></script>
 
 
 <footer class="minimal-global-footer">
