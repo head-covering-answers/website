@@ -32,6 +32,12 @@ banner:
 [Linen & Cotton Items By Aleah](https://linencottonitemsbyaleah.bigcartel.com/)
 
 ## Etsy Shops
+https://www.facebook.com/share/1JEncjggTR/
+
+https://www.etsy.com/shop/adornedcoverings/
+
+
+
 [Covered in Grace](https://coveredingrace1.etsy.com)
 [Rosie and Co Sewing](https://www.etsy.com/shop/RosieandCoSewing)
 [Fruit Of Her Hand](https://www.etsy.com/shop/FruitOfHerHandShop)
