@@ -71,7 +71,7 @@ h2#footnote-label {
 
 /* HERE WE MAKE THE SIZE OF ### text in markdown to be smaller, in other words, we'll make H3 size smaller*/
 .sl-markdown-content h3 {
-    font-size: var(--sl-text-h4);
+    font-size: var(--sl-text-h5);
     margin-top: 1.5rem;   /* Reduces the gap above the heading */
     margin-bottom: 0.5rem; /* Reduces the gap below the heading */
 }
