@@ -63,11 +63,13 @@ banner:
 ### <a href="https://www.etsy.com/shop/huizehuissoon/">HuizeHuissoon</a> <a href="https://www.etsy.com/shop/huizehuissoon/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61582482657822"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/silverstitchingco/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>
 
 
+### <a href="https://www.garlandsofgrace.com/">Huize Huissoon</a> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@garlandsofgrace5987"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
+
 [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
 ## Other Options
 - Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
-- Many ladies make their own head coverings. Here is some guidance: _______
+- Many ladies make their own head coverings. There are many online tutorials, such as [this one](https://youtu.be/-KBdtKp5Btg?si=AtcWUcy0XuiqoWkm).
 
 
 ***
