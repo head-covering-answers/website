@@ -71,6 +71,10 @@ banner:
 ### <a href="https://www.etsy.com/shop/reformedcraftcoshop/">Reformed Craft Co</a> <a href="https://www.etsy.com/shop/reformedcraftcoshop/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61570029254617"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/reformedcraftco/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
 
 
+### <a href="https://www.etsy.com/shop/headcoversbyhope/">Home Sewn Mama  / Cotton Mama Closet / Head Coverings By Hope</a> <a href="https://www.etsy.com/shop/headcoversbyhope/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61564168082521"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/homesewnmama/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
+
+
+
 <br>
 
 ***
