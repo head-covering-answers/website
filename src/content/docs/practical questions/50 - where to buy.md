@@ -15,8 +15,9 @@ banner:
 :::tip[Overview]{icon="sun"}
 - **Note:** Not all stores are Christian-owned.
 - **Note:** Some stores release newly-made batches of their products only periodically.
-- **Not included:** stores that primarily offer "traditional" designs (like Amish, Catholic, Orthodox, Jewish, or Islamic).
-- **Not included:** stores that cater to "subculture" designs (like hippie, vintage, or bohemian).
+- **Not included:** stores that primarily offer "traditional" styles (like Amish, Catholic, Orthodox, Jewish, or Islamic head coverings).
+- **Not included:** stores that cater to "cultural" styles (like hippie, historic/vintage, or chemo/cancer head coverings).
+- **Note:** If you need more options, or like a particular design, you can also search for the "traditional" or "cultural" styles listed above.
 :::
 
 ## Specialty Companies
@@ -28,11 +29,9 @@ banner:
 
 
 
-### <a href="https://www.garlandsofgrace.com/">Headcovers Unlimited</a> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@garlandsofgrace5987"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
+### <a href="https://www.gloryandgrace.net">Glory and Grace</a> <a href="https://www.gloryandgrace.net"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/gloryandgraceheadcoverings/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   
 
-[Headcovers Unlimited](http://www.headcovers.com/)
-[Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
-[Glory and Grace](https://www.gloryandgrace.net/)
+
 [Katie’s Mercantile](https://www.katiesmercantile.com/bonnets_head_coverings.html)
 [Linen & Cotton Items By Aleah](https://linencottonitemsbyaleah.bigcartel.com/)
 
