@@ -13,11 +13,12 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-- **Note:** Not all stores are Christian-owned.
+- **Tip:** Want to see what a certain product looks like when you wear it? Instead of just viewing a company's online shop, also look at the photos on their social media page(s).
 - **Note:** Some stores release newly-made batches of their products only periodically.
+- **Note:** Not all stores are Christian-owned.
 - **Not included:** stores that primarily offer "traditional" styles (like Amish, Catholic, Orthodox, Jewish, or Islamic head coverings).
 - **Not included:** stores that cater to "cultural" styles (like hippie, historic/vintage, or chemo/cancer head coverings).
-- **Note:** If you need more options, or like a particular design, you can also search for the "traditional" or "cultural" styles listed above.
+- **Note:** If you need more options, or a particular design, you can also search the web for the "traditional" or "cultural" styles listed above.
 :::
 
 ## Specialty Companies
@@ -34,6 +35,7 @@ banner:
 
 ### <a href="https://linencottonitemsbyaleah.bigcartel.com/">Linen & Cotton Items By Aleah</a> <a href="https://linencottonitemsbyaleah.bigcartel.com/"><img class="lh-icon" src="/Website-Icon.png" /></a> 
 
+***
 
 ## Etsy Shops
 
@@ -56,7 +58,6 @@ banner:
 
 
 
-[Rutt Shop](https://www.etsy.com/shop/RuttShop)
 [Mercato](https://www.etsy.com/shop/mercato)
 [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
