@@ -57,8 +57,12 @@ banner:
 ### <a href="https://www.etsy.com/shop/silverstitchingco/">Silver Stitching Co.</a> <a href="https://www.etsy.com/shop/silverstitchingco/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61582482657822"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/silverstitchingco/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>
 
 
+### <a href="https://www.etsy.com/shop/mercato?section_id=6751843">Mercato</a> <a href="https://www.etsy.com/shop/mercato?section_id=6751843"><img class="lh-icon" src="/Website-Icon.png" /></a>   <a href="https://www.instagram.com/mercatony/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>
 
-[Mercato](https://www.etsy.com/shop/mercato)
+
+### <a href="https://www.etsy.com/shop/huizehuissoon/">HuizeHuissoon</a> <a href="https://www.etsy.com/shop/huizehuissoon/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61582482657822"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/silverstitchingco/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>
+
+
 [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
 ## Other Options
