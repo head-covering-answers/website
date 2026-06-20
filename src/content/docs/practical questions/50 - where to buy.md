@@ -5,8 +5,6 @@ sidebar:
   label: Where To Buy Head Coverings?
   order: 50
 slug: buy
-banner:
-  content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
 
 <style> .lh-icon { height: 1lh; width: auto; vertical-align: text-bottom; display: inline-block;} </style>
@@ -14,10 +12,8 @@ banner:
 
 :::tip[Overview]{icon="sun"}
 - **Tip:** Want to see what a certain product looks like when you wear it? Instead of just viewing a company's online shop, also look at the photos on their social media page(s).
-- **Note:** Some stores release newly-made batches of their products only periodically.
-- **Note:** Not all stores are Christian-owned.
-- **Not included:** stores that primarily offer "traditional" styles (like Amish, Catholic, Orthodox, Jewish, or Islamic head coverings).
-- **Not included:** stores that cater to "cultural" styles (like hippie, historic/vintage, or chemo/cancer head coverings).
+- **Note:** Some stores release newly-made batches of their products only periodically. Not all stores are Christian-owned.
+- **Not included:** Stores that primarily offer "traditional" styles (like Amish, Catholic, Orthodox, Jewish, or Islamic head coverings), nor stores that cater to "cultural" styles (like hippie, historic/vintage, or chemo/cancer head coverings).
 - **Note:** If you need more options, or a particular design, you can also search the web for the "traditional" or "cultural" styles listed above.
 :::
 
