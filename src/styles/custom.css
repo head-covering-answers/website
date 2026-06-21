@@ -75,19 +75,19 @@ h2#footnote-label {
 }
 
 
+
 /* HERE WE remove chain link icon at the end of H3 headings, which are now actually H5 headings due to the code above*/
-.sl-markdown-content h5 a svg {
+/* Target the anchor link immediately following an H3/H5 header */
+.sl-markdown-content h3 + a {
   display: none !important;
 }
+.sl-markdown-content h5 + a {
+  display: none !important;
+}
+
+
 
 /* HERE WE remove chain link icon at the end of the footnote heading*/
 .sl-markdown-content h2#footnote-label a svg {
   display: none !important;
 }
-
-
-/* Remove the anchor link icon from the auto-generated footnotes heading */
-.sl-markdown-content h2#footnote-label a {
-  display: none !important;
-}
-
