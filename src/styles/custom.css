@@ -1,7 +1,5 @@
 /* START THE ADJUSTMENT OF THE BACKGROUND COLOR TO SHOW A PURPLE GRADIENT */
 
-
-
 :root {
 	--purple-hsl: 255, 60%, 60%;
 	--overlay-blurple: hsla(var(--purple-hsl), 0.2);
@@ -78,6 +76,6 @@ h2#footnote-label {
 
 
 /* HERE WE remove chain link icon at the end of H3 headings*/
-.content h3 a.anchor-link {
+.sl-markdown-content h3 a svg {
   display: none !important;
 }

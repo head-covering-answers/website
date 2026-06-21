@@ -12,10 +12,6 @@ export default defineConfig({
 
 			title: 'Head Covering Answers',
       
-      markdown: {
-        headingLinks: false,
-      },
-      
 			favicon: '/favicon.ico',
 
 			head: [
