@@ -75,8 +75,8 @@ h2#footnote-label {
 }
 
 
-/* HERE WE remove chain link icon at the end of H3 headings*/
-.sl-markdown-content h3 a svg {
+/* HERE WE remove chain link icon at the end of H3 headings, which are now actually H5 headings due to the code above*/
+.sl-markdown-content h5 a svg {
   display: none !important;
 }
 
