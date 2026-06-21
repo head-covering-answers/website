@@ -79,3 +79,15 @@ h2#footnote-label {
 .sl-markdown-content h3 a svg {
   display: none !important;
 }
+
+/* HERE WE remove chain link icon at the end of the footnote heading*/
+.sl-markdown-content h2#footnote-label a svg {
+  display: none !important;
+}
+
+
+/* Remove the anchor link icon from the auto-generated footnotes heading */
+.sl-markdown-content h2#footnote-label a {
+  display: none !important;
+}
+
