@@ -26,17 +26,14 @@ slug: gender
 ***
 
 ## Explanation
-- In 1 Corinthians 11, Paul points to the Creation order, noting that man was created first and woman was created from and for the man.
+- Paul introduces the topic of head covering by teaching about the principle of headship, explaining a chain of authority where God is the head of Christ, Christ is the head of man, and man is the head of woman (1 Corinthians 11:3)
 
-- He also  teaches the principle of headship, explaining a chain of authority where God is the head of Christ, Christ is the head of man, and man is the head of woman.
+- When further explaining the practice of head covering, Paul points to the Creation order, noting that man was created first and woman was created from and for the man (1 Corinthians 11:8-9).
 
-- In 1 Corinthians 11:10, Paul refers to the head covering as "a symbol of authority" on a woman's head, showing her respect for this God-given structure.
+- In 1 Corinthians 11:10, Paul refers to the head covering as "a symbol of authority" on a woman's head, showing her respect for this God-given gender-based structure.
 
-- Likewise, Paul links the practice of head covering to God's glory, stating that because man is the image and glory of God, that he he should therefore be symbolically uncovered (God's glory should not be hidden).
+- Paul further links the practice of head covering to God's glory (1 Corinthians 11:7), stating that because man is the image and glory of God, that he should therefore be symbolically uncovered (God's glory should not be hidden).
 
-- In contrast, the woman is the glory of man, so she covers her head to symbolically conceal human glory while in God's presence.
+- In contrast, the woman is the glory of man (1 Corinthians 11:7), so she covers her head (implied: to symbolically conceal the glory of man  while communicating with God).
 
-- Paul also appeals to nature, arguing that different hair lengths are a biological sign from God that men and women should do different things with the coverage of their heads.
-
-
-
+- Paul also appeals to nature, arguing that gender-based hair lengths are a biological sign from God that men and women should do different things with the coverage of their heads.
