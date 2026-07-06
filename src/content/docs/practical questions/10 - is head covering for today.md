@@ -1,6 +1,6 @@
 ---
 title: Is the biblical practice of head covering applicable for today?
-description: Do Paul's instructions about head covering still apply to Christian women nowadays?
+description: An exploration of whether the biblical command for women to cover their heads remains an applicable practice for Christians today based on timeless theological principles.
 sidebar:
   label: Is Covering For Today?
   order: 10
@@ -9,7 +9,7 @@ slug: today
 
 :::tip[Overview]{icon="sun"}
 - The practice of head covering has largely disappeared in modern Western Christianity, making the instructions in 1 Corinthians 11 seem unusual to many modern Christians. 
--  Some assume the practice was a cultural accommodation addressed to specific first-century issues in Corinth, such as distinguishing Christian women from local prostitutes or pagan worshipers.
+- Some assume the practice was a cultural accommodation addressed to specific first-century issues in Corinth, such as distinguishing Christian women from local prostitutes or pagan worshipers.
 - Confusion also stems from alternative interpretations, such as the view that a woman’s long hair is her only required covering or that the command was tied to "sign gifts" like prophecy that some believe have ceased.
 :::
 

@@ -25,6 +25,13 @@ hero:
       link: /today
       icon: sun
       variant: secondary
+	  head:  # The subsequent code adds CSS style on the H1 text, which is the "title" string above, to strink it so that it isn't so ugly-massive.
+  - tag: style
+    content: |
+      .hero h1 {
+        font-size: 2.5rem !important; 
+        line-height: 1.2 !important;
+      }
 ---
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
