@@ -47,7 +47,7 @@ header {
 
 /* Target the h1 title only on the landing/index page */
 [data-landing-page] .hero h1 {
-  font-size: var(--sl-text-3xl); /* Starlight default is usually 4xl or 5xl on hero */
+  font-size: var(--sl-text-2xl); /* Starlight default is usually 4xl or 5xl on hero */
   /* Or use a explicit size like: font-size: 2.5rem; */
 }
 
