@@ -33,3 +33,4 @@ Example of loading image in the public folder (non-optimized and simply dumped i
 ## Explanation
 - Text goes here.
 
+***
