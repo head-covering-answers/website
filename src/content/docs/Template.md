@@ -11,7 +11,7 @@ draft: true
 ---
 
 :::tip[Overview]{icon="sun"}
-- Text goes here
+- Text goes here.
 :::
 
 ## Answer
