@@ -11,7 +11,7 @@ draft: true
 ---
 
 :::tip[Overview]{icon="sun"}
-- Text goes here
+- Text goes here.
 :::
 
 ## Answer
@@ -34,3 +34,4 @@ Example (commented out) of loading image in the public folder (non-optimized and
 ## Explanation
 - Text goes here.
 
+***
