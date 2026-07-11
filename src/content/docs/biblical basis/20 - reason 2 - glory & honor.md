@@ -1,6 +1,6 @@
 ---
-title: What does head covering actually symbolize?
-description: Paul explains head covering based on gender-based glory and honor
+title: How does a head covering relate to glory and honor?
+description: Paul explains head covering based on gender-based glory and honor.
 sidebar:
   label: Reason 2 - Glory & Honor
   order: 20
@@ -8,18 +8,14 @@ slug: glory
 ---
 
 :::tip[Overview]{icon="sun"}
-- For those unfamiliar with Paul's teaching on head covering, it may seem that there is no connection between a physical piece of cloth and issues of glory & honor.
+- If you haven't read 1 Corinthians 11 before, it may seem that there's no connection between a physical piece of cloth and issues of glory & honor.
 
-- The key is to remember that a "symbol" is simply a physical representation of a non-physical reality. A small circle made out of gold doesn't actually communicate the commitment of marriage, yet once we understand what a wedding ring is intended to symbolize, then we understand what it means when someone wears one.
+- The key is to remember: a "symbol" is simply a physical representation of a non-physical reality. For example, a small circle made out of gold doesn't actually communicate the commitment of marriage. Yet once we understand what a wedding ring is intended to symbolize, then we understand what it means when someone wears one.
 :::
 
 ## Answer
 
 - Paul teaches that the purpose of head covering is to symbolically highlight God's glory while symbolically hiding human glory.
-
-- Because man is the "glory of God," he remains uncovered to reveal that glory.
-
-- Women cover their heads because she is the "glory of man."
 
 <br>
 
@@ -39,6 +35,6 @@ slug: glory
 
 7. Using a covering is described as a "proper" way for a woman to pray (1 Corinthians 11:13). At that point, only the "glory of God" (the man) is symbolically uncovered.
 
-8. Likewise, Paul warns that if these signs are ignored, believers "disgrace" their heads (1 Corinthians 11:4–5). This is the opposite of glory.
+8. Likewise, Paul warns that if these signs are ignored, believers "dishonor" their heads (1 Corinthians 11:4–5). This is the opposite of glory.
 
 9. In summary: when communicating with God, only the "glory of Deity" (man) is symbolically uncovered, while the "glory of humanity" (woman) is symbolically veiled.
