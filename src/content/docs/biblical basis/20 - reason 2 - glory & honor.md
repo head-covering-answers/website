@@ -9,8 +9,6 @@ slug: glory
 
 :::tip[Overview]{icon="sun"}
 - If you haven't read 1 Corinthians 11 before, it may seem that there's no connection between a physical piece of cloth and topics like glory & honor.
-
-- 
 :::
 
 ## Answer
