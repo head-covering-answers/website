@@ -8,14 +8,16 @@ slug: glory
 ---
 
 :::tip[Overview]{icon="sun"}
-- If you haven't read 1 Corinthians 11 before, it may seem that there's no connection between a physical piece of cloth and issues of glory & honor.
+- If you haven't read 1 Corinthians 11 before, it may seem that there's no connection between a physical piece of cloth and topics like glory & honor.
 
-- The key is to remember: a "symbol" is simply a physical representation of a non-physical reality. For example, a small circle made out of gold doesn't actually communicate the commitment of marriage. Yet once we understand what a wedding ring is intended to symbolize, then we understand what it means when someone wears one.
+- 
 :::
 
 ## Answer
 
-- Paul teaches that the purpose of head covering is to symbolically highlight God's glory while symbolically hiding human glory.
+- A "symbol" is simply a physical representation of a non-physical reality. For example, a small circle made out of gold doesn't literally communicate the commitment of marriage. Yet once we understand what a wedding ring is intended to **symbolize**, then we understand what it means when someone wears one.
+
+- Similarly, Paul teaches that the purpose of head covering is to **symbolically** highlight God's glory while symbolically hiding human glory.
 
 <br>
 
