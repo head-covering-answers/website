@@ -13,9 +13,11 @@ slug: glory
 
 ## Answer
 
-- A "symbol" is simply a physical representation of a non-physical reality. For example, a small circle made out of gold doesn't literally communicate the commitment of marriage. Yet once we understand what a wedding ring is intended to **symbolize**, then we understand what it means when someone wears one.
+- A **"symbol"** is simply a physical representation of a non-physical reality.
 
-- Similarly, Paul teaches that the purpose of head covering is to **symbolically** highlight God's glory while symbolically hiding human glory.
+- A small circle-shaped piece of gold doesn't literally communicate the commitment of marriage. Yet once we understand what a wedding ring is intended to **symbolize**, then we understand what it means when someone wears one.
+
+- Similarly, the Bible teaches that head covering **symbolically** highlights God's glory while symbolically hiding human glory.
 
 <br>
 
