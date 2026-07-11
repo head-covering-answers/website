@@ -35,9 +35,9 @@ slug: glory
 
 5. When a woman wears a wedding ring, it doesn't symbolize that her *finger* is married. It means that the woman herself is married. The symbolism works the same with a head covering. Paul speaks of woman herself being covered (1 Corinthians 11:6, 12), not just her head.
 
-6. Paul explains that the *reason* a man should **not** be covered is specifically because he is "the glory of God" (1 Corinthians 11:7). And so the women's situation is the opposite: the *reason* she **should** be covered is that she is "the glory of man" (1 Corinthians 11:7). The "glory of man" is symbolically covered.
+6. Paul explains that the *reason* a man **should not** be covered is specifically because he is "the glory of God" (1 Corinthians 11:7). And so the women's situation is the opposite: the *reason* she **should** be covered is that she is "the glory of man" (1 Corinthians 11:7). The "glory of man" is symbolically covered.
 
-7. Using a covering is described as a "proper" way for a woman to pray (1 Corinthians 11:13). It is proper that only the "glory of God" is uncovered when communicating with God.
+7. Being covered is the "proper" way for a woman to pray (1 Corinthians 11:13). It is proper for the glory of man to be symbolically covered when communicating with God. It is proper that only the "glory of God" is uncovered.
 
 8. Paul warns that if these symbols are ignored, then believers are "dishonoring" their heads (1 Corinthians 11:4–5). Obviously, this is the opposite of glorifying God.
 
