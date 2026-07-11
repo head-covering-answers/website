@@ -17,23 +17,21 @@ slug: gender
 
 ## Answer
   
-1. Paul explains that head covering is a physical symbol that honors God's established order of headship and the distinct roles he gave to men and women.
+- Paul explains that head covering is a physical symbol that honors God's established order of headship and the distinct roles he gave to men and women.
 
-2. He bases this practice on the fact that men and women were created with different functions, which are reflected uniquely and differently during prayer and prophesy.
+- He bases this practice on the fact that men and women were created with different functions, which are reflected uniquely and differently during prayer and prophesy.
 
 <br>
 
 ***
 
 ## Explanation
-- Paul introduces the topic of head covering by teaching about the principle of headship, explaining a chain of authority where God is the head of Christ, Christ is the head of man, and man is the head of woman (1 Corinthians 11:3)
+1 Paul introduces the topic of head covering by teaching about the principle of headship, explaining a chain of authority where God is the head of Christ, Christ is the head of man, and man is the head of woman (1 Corinthians 11:3). Between humans, this headship relationship is gender-based.
 
-- When further explaining the practice of head covering, Paul points to the Creation order, noting that man was created first and woman was created from and for the man (1 Corinthians 11:8-9).
+2. When further explaining the practice of head covering, Paul points to the Creation order, noting that man was created first and woman was created from and for the man (1 Corinthians 11:8-9). Gender roles began in Genesis 1-2.
 
-- In 1 Corinthians 11:10, Paul refers to the head covering as "a symbol of authority" on a woman's head, showing her respect for this God-given gender-based structure.
+3. In 1 Corinthians 11:10, Paul refers to the head covering as "a symbol of authority" on a woman's head, which points to the God-given gender-based structure.
 
-- Paul further links the practice of head covering to God's glory (1 Corinthians 11:7), stating that because man is the image and glory of God, that he should therefore be symbolically uncovered (God's glory should not be hidden).
+4. Paul further links the practice of head covering to man being the "glory of God" and women being the "glory of man" (1 Corinthians 11:7). Divine and human glory are reflected differently by each gender.
 
-- In contrast, the woman is the glory of man (1 Corinthians 11:7), so she covers her head (implied: to symbolically conceal the glory of man  while communicating with God).
-
-- Paul also appeals to nature, arguing that gender-based hair lengths are a biological sign from God that men and women should do different things with the coverage of their heads.
+5. Paul also appeals to nature, arguing that gender-based hair lengths are a biological sign from God that men and women should do different things with the coverage of their heads.
