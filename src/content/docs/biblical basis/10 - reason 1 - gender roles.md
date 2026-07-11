@@ -26,7 +26,7 @@ slug: gender
 ***
 
 ## Explanation
-1 Paul introduces the topic of head covering by teaching about the principle of headship, explaining a chain of authority where God is the head of Christ, Christ is the head of man, and man is the head of woman (1 Corinthians 11:3). Between humans, this headship relationship is gender-based.
+1. Paul introduces the topic of head covering by teaching about the principle of headship, explaining a chain of authority where God is the head of Christ, Christ is the head of man, and man is the head of woman (1 Corinthians 11:3). Between humans, this headship relationship is gender-based.
 
 2. When further explaining the practice of head covering, Paul points to the Creation order, noting that man was created first and woman was created from and for the man (1 Corinthians 11:8-9). Gender roles began in Genesis 1-2.
 
