@@ -25,7 +25,7 @@ slug: glory
 
 ## Explanation
 
-1. Men and women were both created in God's image (Genesis 1:26–27) and in His likeness (Genesis 1:26, Genesis 5:1, James 3:9).
+1. Men and women were both created in God's image (Genesis 1:26–27) and in His likeness (Genesis 1:26, Genesis 5:1, James 3:9). God made us "very good" (Genesis 1:31) and Paul teaches that both men and women are glorious (1 Corinthians 11:7)
 
 2. The man (Adam) was God's first direct human creation, and reflects His headship. The Bible says the man is the "glory of God" (1 Corinthians 11:7).
 
