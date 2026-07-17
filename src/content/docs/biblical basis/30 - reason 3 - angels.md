@@ -37,4 +37,4 @@ slug: angels
 
 5. In contrast to each explanation above, there are a couple theories that lack any biblical support and are not likely to be valid explanations.  **(A)** There is no Scriptural basis for the theory that a head covering prevents fallen angels from causing problems for Christian women. **B** Similarly, there is no biblical support for the theory that good angels (or fallen angels) would be sensually tempted by a women who doesn't wear a head covering.
 
-6. The Greek word translated "angel" can also be translated as "messenger," which some believe could refer to pastors (in certain contexts). Here, the spiritual headship of the local church is connected with the headship concepts discussed in other parts of 1 Corinthians 11.
+6. The Greek word translated "angel" can also be translated as "messenger." In fact, this word is sometimes used in Scripture to refer specifically to humans (examples: Luke 7:24, Luke 9:52, James 2:25, and perhaps Revelation 2-3). Perhaps 1 Corinthians 11:10 is refering to pastors, with the spiritual headship of the local church being connected with the headship concepts discussed in other parts of 1 Corinthians 11.
