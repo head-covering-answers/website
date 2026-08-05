@@ -70,6 +70,8 @@ slug: buy
 ### <a href="https://www.etsy.com/shop/headcoversbyhope/">Head Coverings By Hope</a> <a href="https://www.etsy.com/shop/headcoversbyhope/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61564168082521"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/homesewnmama/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
 
 
+### <a href="https://www.etsy.com/listing/1767319300/100-cotton-florals-with-lace-medium?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=remnants+of+glory+head+covers&ref=sr_gallery-1-2&organic_search_click=1&sts=1&content_source=aaeab87c-8c4d-4eb4-a922-7d16ebb49c29%253ALT2838a20fabd4760c01a121f7f1d55f8e2dea370a&logging_key=aaeab87c-8c4d-4eb4-a922-7d16ebb49c29%3ALT2838a20fabd4760c01a121f7f1d55f8e2dea370a">Remnants of Glory</a> <a href="https://www.etsy.com/listing/1767319300/100-cotton-florals-with-lace-medium?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=remnants+of+glory+head+covers&ref=sr_gallery-1-2&organic_search_click=1&sts=1&content_source=aaeab87c-8c4d-4eb4-a922-7d16ebb49c29%253ALT2838a20fabd4760c01a121f7f1d55f8e2dea370a&logging_key=aaeab87c-8c4d-4eb4-a922-7d16ebb49c29%3ALT2838a20fabd4760c01a121f7f1d55f8e2dea370a"><img class="lh-icon" src="/Website-Icon.png" /></a> 
+
 
 <br>
 
