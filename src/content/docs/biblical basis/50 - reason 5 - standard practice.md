@@ -17,7 +17,7 @@ slug: standard-practice
 
 ## Answer
 
-- In verse 16, Paul explains that neither the apostles ("we") nor any of the "churches of God" recognize any practice other than women covering their heads during worship
+- In verse 16, Paul explains that neither the apostles ("we") nor any of the "churches of God" recognize any practice other than women covering their heads during worship.
 
 - By pointing to the universal practice of all early Christian communities, he shows that head covering was a standard and authoritative rule for all believers.
 
