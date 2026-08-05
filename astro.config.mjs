@@ -19,11 +19,6 @@ social: [
           href: 'https://www.facebook.com/HeadcoveringForEvangelicals',
         },
         {
-          icon: 'facebook',
-          label: 'Facebook Group',
-          href: 'https://www.facebook.com/groups/headcoveringforevangelicals',
-        },
-        {
           icon: 'instagram',
           label: 'Instagram',
           href: 'https://www.instagram.com/headcovering_for_evangelicals/',
