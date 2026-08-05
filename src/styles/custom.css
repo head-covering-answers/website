@@ -91,3 +91,15 @@ h2#footnote-label {
 .sl-markdown-content h2#footnote-label + a {
   display: none !important;
 }
+
+
+
+
+/* Limit maximum height on desktop so images don't fill the entire screen */
+.sl-markdown-content img {
+  max-height: 450px;
+  width: auto;
+  object-fit: contain;
+  margin-inline: auto;
+  border-radius: 0.5rem;
+}
