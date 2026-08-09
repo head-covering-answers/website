@@ -2,9 +2,9 @@
 title: Was head covering only for the Corinthian Church?
 description: An exploration of 1 Corinthians 11:16, explaining how the Apostle Paul appealed to the universal practice of the early churches to support the command for head covering.
 sidebar:
-  label: Reason 5 - Standard Practice
+  label: Reason 5 - Universal Practice
   order: 50
-slug: standard-practice
+slug: universal-practice
 ---
 
 :::tip[Overview]{icon="sun"}

@@ -19,21 +19,32 @@ Check out these five super-common questions...
 
 
 ## 1. What are the reasons for head covering?
-- Main answers
-- Click to learn more
+
+- Paul gives five explanations for the practice of head covering: (1) Gender Identity, (2) Glory & Honor, (3) Angels, (4) Hair Lengths, and (5) Universal Practice.
+
+- Click [here](/gender) to learn more.
+
 
 ## 2. Is head covering for today?
-- Main answers
-- Click to learn more
+
+- Yes, Paul's reasons apply today and the practice applies today.
+
+- Click [here](/today) to learn more.
+
+
 
 ## 3. Does "long hair" count as a head covering?
-- Main answers
-- Click to learn more
+
+- This answer is coming soon.
+
 
 ## 4. Where to buy?
-- Main answers
-- Click to learn more
+
+- What places sell appropriate head coverings for Christians?
+
+- There are a wide variety of [options to choose from](/buy).
+
 
 ## 5. When to wear one?
-- Main answers
-- Click to learn more
+
+- This answer is coming soon.
