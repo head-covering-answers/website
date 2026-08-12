@@ -103,3 +103,44 @@ h2#footnote-label {
   margin-inline: auto;
   border-radius: 0.5rem;
 }
+
+
+
+
+/* Replace the hamburger menu, on mobile screens, with the word "Menu" in order to reduce user confusion */
+@media (max-width: 50rem) {
+  starlight-menu-button button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    
+    /* Padding & dimensions: increase horizontal padding for a wider button */
+    padding: 0.45rem 1.125rem;
+    min-width: 4.75rem; 
+    
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.375rem;
+    background-color: var(--sl-color-accent-low, var(--sl-color-gray-6));
+  }
+
+  /* Hide default hamburger SVG */
+  starlight-menu-button button svg {
+    display: none !important;
+  }
+
+  /* Render "MENU" text */
+  starlight-menu-button button::after {
+    content: "MENU";
+    font-size: var(--sl-text-xs);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--sl-color-white);
+  }
+}
+
+/* Ensure the menu toggle remains hidden on desktop viewports */
+@media (min-width: 50.01rem) {
+  starlight-menu-button {
+    display: none !important;
+  }
+}
