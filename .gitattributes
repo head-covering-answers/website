@@ -1,0 +1,6 @@
+# Normalize line endings: text files stay LF in the repo and on checkout
+* text=auto eol=lf
+
+# Windows batch files keep CRLF (cmd.exe can choke on LF-only batch files)
+*.bat text eol=crlf
+*.cmd text eol=crlf
