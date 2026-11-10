@@ -19,7 +19,7 @@ slug: hair-lengths
 
 - Here is 1 Corinthians 11:13-15: "Judge for yourselves: is it proper for a woman to pray to God with her head uncovered? Does not even nature itself teach you that if a man has long hair, it is a dishonor to him, but if a woman has long hair, it is a glory to her? For her hair is given to her for a covering."
 
-- Paul uses nature’s design for hair length as a biological "pointer" to show that a fabric head covering is proper for women during prayer.
+- Paul uses nature's design for hair length as a biological "pointer" to show that a fabric head covering is proper for women during prayer.
 
 - He argues that since "nature" (created by God) gives women long hair as a glorious "covering," then women should likewise wear a symbolic head covering.
 

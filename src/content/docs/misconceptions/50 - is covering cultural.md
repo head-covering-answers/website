@@ -17,7 +17,7 @@ banner:
 ## Answer
   
 1. Text goes here
-2.  pull from article: “A Uniquely Christian Symbol: How Head Coverings Were Unfamiliar To Everyone” and from “Head Covering and the City of Corinth: An Introduction to Corinth”
+2.  pull from article: "A Uniquely Christian Symbol: How Head Coverings Were Unfamiliar To Everyone" and from "Head Covering and the City of Corinth: An Introduction to Corinth"
 
 
 <br>

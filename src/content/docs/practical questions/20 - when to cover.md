@@ -12,7 +12,7 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-- needing to distinguish "absolute sense" (in bed? in shower?) vs "in public" vs "during worship" vs "prayer & prophesy."
+- needing to distinguish "absolute sense" (in bed? in shower?) vs "in public" vs "during worship" vs "prayer & prophecy."
 :::
 
 ## Answer

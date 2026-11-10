@@ -17,7 +17,7 @@ banner:
 ## Answer
   
 1. Text goes here
-2. pull from my book and from: “The Biology of Hair Lengths: Why It’s Natural for Women to Have Longer Hair”
+2. pull from my book and from: "The Biology of Hair Lengths: Why It's Natural for Women to Have Longer Hair"
 
 <br>
 

@@ -33,6 +33,6 @@ slug: universal-practice
 
 3. How could this practice be considered authoritative across different cultures? In verse 2, Paul had defined his instructions as "traditions" or "ordinances" (Greek: *paradosis*), a term used for apostolic teachings that believers are commanded to "hold firmly" (1 Corinthians 11:2).
 
-4. Some English Bibles translate the phrase in verse 11 as: "we have no *such* practice." In context, this would mean that Paul and the other churches had no practice of allowing women to pray or prophesy with their heads uncovered.
+4. Some English Bibles translate the phrase in verse 16 as: "we have no *such* practice." In context, this would mean that Paul and the other churches had no practice of allowing women to pray or prophesy with their heads uncovered.
 
 5. Verse 16 is supported by Early Church writings and artwork, which indicate they carried on the practice of head covering.

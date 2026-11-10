@@ -17,7 +17,7 @@ banner:
 ## Answer
   
 1. Text goes here
-2. pull from my article: “What’s More Important Than Head Covering?” and the article: “Are My Head Covering Priorities in Line with the Bible?”
+2. pull from my article: "What's More Important Than Head Covering?" and the article: "Are My Head Covering Priorities in Line with the Bible?"
 
 <br>
 

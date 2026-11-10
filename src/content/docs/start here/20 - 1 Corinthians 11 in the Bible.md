@@ -38,7 +38,7 @@ He devoted a half-chapter to explaining the practice, its principles, and its re
 
 **8** For man does not originate from woman, but woman from man;
 
-**9** for indeed man was not created for the woman’s sake, but woman for the man’s sake
+**9** for indeed man was not created for the woman's sake, but woman for the man's sake.
 
 **10** Therefore the woman ought to have a symbol of authority on her head, because of the angels.
 

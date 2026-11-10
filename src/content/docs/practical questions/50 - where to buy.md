@@ -39,7 +39,7 @@ slug: buy
 
 ## Etsy Shops
 
-### <a href="https://www.etsy.com/shop/cassiescornershop">Cassie’s Corner Shop</a> <a href="https://www.etsy.com/shop/cassiescornershop"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/cassiescorner.shop"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/cassiescorner.shop/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@CassiesCornerShopco"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
+### <a href="https://www.etsy.com/shop/cassiescornershop">Cassie's Corner Shop</a> <a href="https://www.etsy.com/shop/cassiescornershop"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/cassiescorner.shop"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/cassiescorner.shop/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@CassiesCornerShopco"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
 
 
 ### <a href="https://www.etsy.com/shop/adornedcoverings/">Adorned Coverings</a> <a href="https://www.etsy.com/shop/adornedcoverings/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61577313951712"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/adornedcoverings/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 

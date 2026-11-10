@@ -19,7 +19,7 @@ slug: gender
   
 - Paul explains that head covering is a physical symbol that honors God's established order of headship and the distinct roles he gave to men and women.
 
-- He bases this practice on the fact that men and women were created with different functions, which are reflected uniquely and differently during prayer and prophesy.
+- He bases this practice on the fact that men and women were created with different functions, which are reflected uniquely and differently during prayer and prophecy.
 
 <br>
 

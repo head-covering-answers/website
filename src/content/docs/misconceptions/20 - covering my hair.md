@@ -33,7 +33,7 @@ slug: covered-hair
 
 - Of course, wearing a head covering means that at least _some_ hair will be covered. But a woman's long hair could easily flow down lower than her shoulders, **well below her (covered) head.** This demonstrates that legitimately covering the _head_ does not automatically mean that all her _hair_ will be covered as well.
 
-- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10;  1 Peter 3:3-4).
+- In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10; 1 Peter 3:3-4).
 
 <br>
 
@@ -43,7 +43,7 @@ slug: covered-hair
 
 [^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](/modesty). And so this opposite belief can actually have the same result: a woman feeling unnecessarily guilty if her hair is visible.
 
-[^3]: Therefore, it is legalism to require all Christian women to conceal their hair. At the same time, God does not _prohibit_ women from covering their hair. And so a woman's  _personal_ decision to cover all her hair would be a matter of [Christian liberty](/optonal).
+[^3]: Therefore, it is legalism to require all Christian women to conceal their hair. At the same time, God does not _prohibit_ women from covering their hair. And so a woman's _personal_ decision to cover all her hair would be a matter of [Christian liberty](/optional).
 
 [^4]: If we likewise continue extending the need to cover all other "competing" glories, then we'd also need to shield our eyes from the "glory" of the moon, stars, and sun (1 Corinthians 15:41).
 

@@ -16,7 +16,7 @@ banner:
 
 ## Answer
   
-1. First, need to define what does "Require" means practically
+1. First, need to define what "Require" means practically
 2. Offer
 3. Teach
 4. Urge

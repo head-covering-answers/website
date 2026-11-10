@@ -1,6 +1,6 @@
 ---
 title: Did Paul teach head covering only because of the Corinthian prostitutes?
-description: One misconception is that Corinthian temple prostitues went around with uncovered heads, thus prompting the instructions from Paul.
+description: One misconception is that Corinthian temple prostitutes went around with uncovered heads, thus prompting the instructions from Paul.
 sidebar:
   label: Covering Due To Corinthian Prostitutes?
   order: 60

@@ -17,7 +17,7 @@ banner:
 ## Answer
   
 1. Text goes here
-2. link to the “how to handle lack of support article, link to priorities article, encourage priority in foundational issues)
+2. link to the "how to handle lack of support article, link to priorities article, encourage priority in foundational issues)
 
 <br>
 

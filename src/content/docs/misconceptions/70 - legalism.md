@@ -29,7 +29,7 @@ slug: legalism
 
 1. In a biblical context, legalism is usually defined as either trying to earn God's forgiveness through rule-keeping or making strict laws out of issues where God has given Christian liberty.
 
-2. Following a direct instruction from Scripture is simply part of biblical Christianity. For example, baptism is not considered to be legalism. Why? Because the practice of baptizing believes is clearly God's direction for the church. Many view head covering the same way.
+2. Following a direct instruction from Scripture is simply part of biblical Christianity. For example, baptism is not considered to be legalism. Why? Because the practice of baptizing believers is clearly God's direction for the church. Many view head covering the same way.
 
 3. Biblical teaching is clear that salvation is a free gift based on the work of Jesus, not on wearing a cloth covering. A person can practice head covering while fully believing that only faith in Christ saves them. Conversely, a person can practice head covering and be unsaved.
 
@@ -37,6 +37,6 @@ slug: legalism
 
 5. Legalism is usually a problem of the heart, not a problem with the command itself. Any biblical instruction — like prayer or giving — can be done legalistically if the motive is pride or self-righteousness.
 
-6. Many women choose to cover because they want to please God by following the whole counsel of His Word.  They simply see it as a way to visually testify to the truth of God’s design in a world that often rejects it.
+6. Many women choose to cover because they want to please God by following the whole counsel of His Word. They simply see it as a way to visually testify to the truth of God's design in a world that often rejects it.
 
 7. Some are inclined to call a command "legalistic" only in order to avoid the inconvenience of obedience. However, it is wiser to follow a potential command than to dismiss a divine requirement as a mere human convention.

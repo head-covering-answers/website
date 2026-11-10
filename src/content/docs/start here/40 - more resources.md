@@ -11,7 +11,7 @@ slug: more
 :::tip[Overview]{icon="sun"}
 - Christian head covering has been in the Bible for 2000 years, and practiced all over the world.
 
-- So it makes sense that there's other resources available beyond this site. 
+- So it makes sense that there are other resources available beyond this site. 
 :::
 
 
@@ -23,7 +23,7 @@ slug: more
 
 - We endorse the **Statement of Faith** from [Answers in Genesis](https://answersingenesis.org/about/faith/).
 
-- We endorse the **The Danvers Statement** from the [Council on Biblical Manhood and Womanhood](https://cbmw.org/about/the-danvers-statement/).
+- We endorse the **Danvers Statement** from the [Council on Biblical Manhood and Womanhood](https://cbmw.org/about/the-danvers-statement/).
 
 
 
