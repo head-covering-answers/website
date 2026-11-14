@@ -28,8 +28,15 @@ social: [
 			favicon: '/favicon.ico',
 
 			head: [
-        			
-			      ],
+				{
+					tag: 'script',
+					attrs: { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-SDKJ3XEQTT' },
+				},
+				{
+					tag: 'script',
+					content: "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-SDKJ3XEQTT');",
+				},
+			],
 
 			components: {
         			// Adding footer code which includes Bible reference tagger.
